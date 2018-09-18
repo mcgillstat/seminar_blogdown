@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+<meta name="pinterest" content="nopin">
+<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+<meta name="generator" content="Hugo 0.36" />
+
+
+
+<link rel="canonical" href="/post/2018winter/2018-04-20/">
+
+
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/solarized_dark.min.css">
+    <title>Kernel Nonparametric Overlap-based Syncytial Clustering - McGill Statistics Seminars</title>
+    
+<meta name="description" content="Date: 2018-04-20 Time: 15:30-16:30 Location: BURN 1205 Abstract: Standard clustering algorithms can find regular-structured clusters such as ellipsoidally- or spherically-dispersed groups, but are more challenged with groups lacking formal structure or definition. Syncytial clustering is the name that we introduce for methods that merge groups obtained from standard clustering algorithms in order to reveal complex group structure in the data. Here, we develop a distribution-free fully-automated syncytial algorithm that can be used with the computationally efficient k-means or other algorithms.">
+
+<meta property="og:title" content="Kernel Nonparametric Overlap-based Syncytial Clustering - McGill Statistics Seminars">
+<meta property="og:type" content="article">
+<meta property="og:url" content="/post/2018winter/2018-04-20/">
+<meta property="og:image" content="/images/default.png">
+<meta property="og:site_name" content="McGill Statistics Seminars">
+<meta property="og:description" content="Date: 2018-04-20 Time: 15:30-16:30 Location: BURN 1205 Abstract: Standard clustering algorithms can find regular-structured clusters such as ellipsoidally- or spherically-dispersed groups, but are more challenged with groups lacking formal structure or definition. Syncytial clustering is the name that we introduce for methods that merge groups obtained from standard clustering algorithms in order to reveal complex group structure in the data. Here, we develop a distribution-free fully-automated syncytial algorithm that can be used with the computationally efficient k-means or other algorithms.">
+<meta property="og:locale" content="ja_JP">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="McGill Statistics Seminars">
+<meta name="twitter:url" content="/post/2018winter/2018-04-20/">
+<meta name="twitter:title" content="Kernel Nonparametric Overlap-based Syncytial Clustering - McGill Statistics Seminars">
+<meta name="twitter:description" content="Date: 2018-04-20 Time: 15:30-16:30 Location: BURN 1205 Abstract: Standard clustering algorithms can find regular-structured clusters such as ellipsoidally- or spherically-dispersed groups, but are more challenged with groups lacking formal structure or definition. Syncytial clustering is the name that we introduce for methods that merge groups obtained from standard clustering algorithms in order to reveal complex group structure in the data. Here, we develop a distribution-free fully-automated syncytial algorithm that can be used with the computationally efficient k-means or other algorithms.">
+<meta name="twitter:image" content="/images/default.png">
+
+
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "NewsArticle",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id":"/"
+    },
+    "headline": "Kernel Nonparametric Overlap-based Syncytial Clustering - McGill Statistics Seminars",
+    "image": {
+      "@type": "ImageObject",
+      "url": "/images/default.png",
+      "height": 800,
+      "width": 800
+    },
+    "datePublished": "2018-04-20T00:00:00JST",
+    "dateModified": "2018-04-20T00:00:00JST",
+    "author": {
+      "@type": "Person",
+      "name": "McGill Statistics Seminars"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "McGill Statistics Seminars",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "/images/logo.png",
+        "width": 600,
+        "height": 60
+      }
+    },
+    "description": "Date: 2018-04-20 Time: 15:30-16:30 Location: BURN 1205 Abstract: Standard clustering algorithms can find regular-structured clusters such as ellipsoidally- or spherically-dispersed groups, but are more challenged with groups lacking formal structure or definition. Syncytial clustering is the name that we introduce for methods that merge groups obtained from standard clustering algorithms in order to reveal complex group structure in the data. Here, we develop a distribution-free fully-automated syncytial algorithm that can be used with the computationally efficient k-means or other algorithms."
+  }
+</script>
+
+
+    <link href="/css/styles.css" rel="stylesheet">
+    
+
+  </head>
+
+  <body>
+    
+    
+    
+
+    <header class="l-header">
+      <nav class="navbar navbar-default">
+        <div class="container">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/">McGill Statistics Seminars</a>
+          </div>
+
+          
+          <div id="navbar" class="collapse navbar-collapse">
+            
+            <ul class="nav navbar-nav navbar-right">
+              
+              
+              <li><a href="/">Current Seminar Series</a></li>
+              
+              
+              
+              <li><a href="/post/">Past Seminar Series</a></li>
+              
+              
+            </ul>
+            
+          </div>
+          
+
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      <div class="container">
+        
+<div class="row">
+  <div class="col-md-8">
+
+    <nav class="p-crumb">
+      <ol class="breadcrumb">
+        <li><a href="/"><i class="fa fa-home" aria-hidden="true"></i></a></li>
+        
+        <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/post/" itemprop="url"><span itemprop="title">post</span></a></li>
+        
+        <li class="active">Ranjan Maitra</li>
+      </ol>
+    </nav>
+
+    <article class="single">
+  <header>
+    <ul class="p-facts">
+      <li><i class="fa fa-calendar" aria-hidden="true"></i><time datetime="2018-04-20T00:00:00JST">Apr 20, 2018</time></li>
+      <li><i class="fa fa-bookmark" aria-hidden="true"></i><a href="/post/">post</a></li>
+      
+    </ul>
+
+    <h2 class="title">Kernel Nonparametric Overlap-based Syncytial Clustering</h1>
+    <h3 class="post-meta">Ranjan Maitra </h3>
+    
+  </header>
+
+  
+
+  <div class="article-body">
+
+<h4 id="date-2018-04-20">Date: 2018-04-20</h4>
+
+<h4 id="time-15-30-16-30">Time: 15:30-16:30</h4>
+
+<h4 id="location-burn-1205">Location: BURN 1205</h4>
+
+<h2 id="abstract">Abstract:</h2>
+
+<p>Standard clustering algorithms can find regular-structured clusters such as ellipsoidally- or spherically-dispersed groups, but are more challenged  with groups lacking formal structure or definition. Syncytial clustering is the name that we introduce for methods that merge groups obtained from standard clustering algorithms in order to reveal complex group structure in the data. Here, we develop a distribution-free fully-automated syncytial algorithm that can be used with the computationally efficient k-means or other algorithms. Our approach computes the cumulative distribution function of the normed residuals from an appropriately fit k-groups model and calculates  the nonparametric overlap between all pairs of groups. Groups with high pairwise overlap are merged as long as the generalized overlap decreases. Our methodology is always a top performer in identifying groups with regular and irregular structures in many datasets. We use our method to identify the distinct kinds of activation in a functional Magnetic Resonance Imaging study.</p>
+
+<p>(This work is joint with Israel Almodovar-Rivera of the University of Puerto Rico and was supported in part by the US National Institute of Biomedical Imaging and Bioengineering (NIBIB) of the National Institutes of Health (NIH) under its Award No. R21EB016212, The content of this paper however is solely the responsibility of the
+authors and does not represent the official views of either the NIBIB or the NIH.)</p>
+
+<h2 id="speaker">Speaker</h2>
+
+<p>Ranjan Maitra is a Professor in the Department of Statistics and Statistical Laboratory
+at the Iowa State University. His research includes: Analysis of Massive Datasets, Clustering, Data Mining, Finite Mixture Models, Image Analysis, functional Magnetic Resonance Imaging, Tomography, Statistical Computing, Simulation Algorithms.</p>
+</div>
+
+  <footer class="article-footer">
+    
+    
+    
+    <section class="bordered">
+      <header>
+        <div class="panel-title">CATEGORIES</div>
+      </header>
+      <div>
+        <ul class="p-terms">
+          
+          <li><a href="/categories/mcgill-statistics-seminar/">McGill Statistics Seminar</a></li>
+          
+        </ul>
+      </div>
+    </section>
+    
+    
+    
+    <section class="bordered">
+      <header>
+        <div class="panel-title">TAGS</div>
+      </header>
+      <div>
+        <ul class="p-terms">
+          
+          <li><a href="/tags/2018-winter/">2018 Winter</a></li>
+          
+        </ul>
+      </div>
+    </section>
+    
+    
+  </footer>
+
+</article>
+
+
+    
+  </div>
+
+  <div class="col-md-4">
+    
+<aside class="l-sidebar">
+
+  <section class="panel panel-default">
+    <div class="panel-heading">
+      <div class="panel-title">Recent Talks</div>
+    </div>
+    <div class="list-group">
+      
+      <a href="/post/2018fall/2018-09-14/" class="list-group-item">Matus Maciak · Sep 14, 2018</a>
+      
+      <a href="/post/2018fall/2018-09-07/" class="list-group-item">Chien-Lin (Mark) Su · Sep 7, 2018</a>
+      
+      <a href="/post/2018winter/2018-04-27/" class="list-group-item">Martin Wolkewitz · Apr 27, 2018</a>
+      
+      <a href="/post/2018winter/2018-04-20/" class="list-group-item">Ranjan Maitra · Apr 20, 2018</a>
+      
+      <a href="/post/2018winter/2018-04-06/" class="list-group-item">Linglong Kong · Apr 6, 2018</a>
+      
+    </div>
+  </section>
+
+  
+  <section class="panel panel-default">
+    <div class="panel-heading">
+      <div class="panel-title">CATEGORY</div>
+    </div>
+    <div class="list-group">
+      
+      <a href="/categories/mcgill-statistics-seminar" class="list-group-item">mcgill-statistics-seminar</a>
+      
+      <a href="/categories/crm-ssc-prize-address" class="list-group-item">crm-ssc-prize-address</a>
+      
+      <a href="/categories/crm-colloquium" class="list-group-item">crm-colloquium</a>
+      
+    </div>
+  </section>
+  
+  <section class="panel panel-default">
+    <div class="panel-heading">
+      <div class="panel-title">TAG</div>
+    </div>
+    <div class="list-group">
+      
+      <a href="/tags/2018-winter" class="list-group-item">2018-winter</a>
+      
+      <a href="/tags/2018-fall" class="list-group-item">2018-fall</a>
+      
+      <a href="/tags/2017-winter" class="list-group-item">2017-winter</a>
+      
+      <a href="/tags/2017-fall" class="list-group-item">2017-fall</a>
+      
+      <a href="/tags/2016-winter" class="list-group-item">2016-winter</a>
+      
+      <a href="/tags/2016-fall" class="list-group-item">2016-fall</a>
+      
+      <a href="/tags/2015-winter" class="list-group-item">2015-winter</a>
+      
+      <a href="/tags/2015-fall" class="list-group-item">2015-fall</a>
+      
+      <a href="/tags/2014-winter" class="list-group-item">2014-winter</a>
+      
+      <a href="/tags/2014-fall" class="list-group-item">2014-fall</a>
+      
+      <a href="/tags/2013-winter" class="list-group-item">2013-winter</a>
+      
+      <a href="/tags/2013-fall" class="list-group-item">2013-fall</a>
+      
+      <a href="/tags/2012-winter" class="list-group-item">2012-winter</a>
+      
+      <a href="/tags/2012-fall" class="list-group-item">2012-fall</a>
+      
+      <a href="/tags/2011-fall" class="list-group-item">2011-fall</a>
+      
+    </div>
+  </section>
+  
+
+</aside>
+
+
+  </div>
+</div>
+
+      </div>
+    </main>
+
+    <footer class="l-footer">
+      <div class="container">
+        <p><span class="h-logo">&copy; McGill Statistics Seminars</span></p>
+        <aside>
+          <p><a href="http://www.mcgill.ca/mathstat/">Department of Mathematics and Statistics</a>.</p>
+          <p><a href="https://www.mcgill.ca/">McGill University</a></p>
+        </aside>
+      </div>
+    </footer>
+
+    <script src="//code.jquery.com/jquery-3.1.1.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+  </body>
+</html>
+

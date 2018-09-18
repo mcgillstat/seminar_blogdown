@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2017 Winter on McGill Statistics Seminars</title>
+    <link>/tags/2017-winter/</link>
+    <description>Recent content in 2017 Winter on McGill Statistics Seminars</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Apr 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/2017-winter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Instrumental Variable Regression with Survival Outcomes</title>
+      <link>/post/2017winter/2017-04-06/</link>
+      <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2017winter/2017-04-06/</guid>
+      <description>Date: 2017-04-06 Time: 15:30-16:30 Location: Universite Laval, Pavillon Vachon, Salle 3840 Abstract: Instrumental variable (IV) methods are popular in non-experimental studies to estimate the causal effects of medical interventions or exposures. These approaches allow for the consistent estimation of such effects even if important confounding factors are unobserved. Despite the increasing use of these methods, there have been few extensions of IV methods to censored data regression problems. We discuss challenges in applying IV structural equational modelling techniques to the proportional hazards model and suggest alternative modelling frameworks.</description>
+    </item>
+    
+    <item>
+      <title>Distributed kernel regression for large-scale data</title>
+      <link>/post/2017winter/2017-03-31/</link>
+      <pubDate>Fri, 31 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2017winter/2017-03-31/</guid>
+      <description>Date: 2017-03-31 Time: 15:30-16:30 Location: BURN 1205 Abstract: In modern scientific research, massive datasets with huge numbers of observations are frequently encountered. To facilitate the computational process, a divide-and-conquer scheme is often used for the analysis of big data. In such a strategy, a full dataset is first split into several manageable segments; the final output is then aggregated from the individual outputs of the segments. Despite its popularity in practice, it remains largely unknown that whether such a distributive strategy provides valid theoretical inferences to the original data; if so, how efficient does it work?</description>
+    </item>
+    
+    <item>
+      <title>Bayesian sample size determination for clinical trials</title>
+      <link>/post/2017winter/2017-03-24/</link>
+      <pubDate>Fri, 24 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2017winter/2017-03-24/</guid>
+      <description>Date: 2017-03-24 Time: 15:30-16:30 Location: BURN 1205 Abstract: Sample size determination problem is an important task in the planning of clinical trials. The problem may be formulated formally in statistical terms. The most frequently used methods are based on the required size, and power of the trial for a specified treatment effect. In contrast to the Bayesian decision-theoretic approach, there is no explicit balancing of the cost of a possible increase in the size of the trial against the benefit of the more accurate information which it would give.</description>
+    </item>
+    
+    <item>
+      <title>Inference in dynamical systems</title>
+      <link>/post/2017winter/2017-03-17/</link>
+      <pubDate>Fri, 17 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2017winter/2017-03-17/</guid>
+      <description>Date: 2017-03-17 Time: 15:30-16:30 Location: BURN 1205 Abstract: We consider the asymptotic consistency of maximum likelihood parameter estimation for dynamical systems observed with noise. Under suitable conditions on the dynamical systems and the observations, we show that maximum likelihood parameter estimation is consistent. Furthermore, we show how some well-studied properties of dynamical systems imply the general statistical properties related to maximum likelihood estimation. Finally, we exhibit classical families of dynamical systems for which maximum likelihood estimation is consistent.</description>
+    </item>
+    
+    <item>
+      <title>High-throughput single-cell biology: The challenges and opportunities for machine learning scientists</title>
+      <link>/post/2017winter/2017-03-10/</link>
+      <pubDate>Fri, 10 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2017winter/2017-03-10/</guid>
+      <description>Date: 2017-03-10 Time: 15:30-16:30 Location: BURN 1205 Abstract: The immune system does a lot more than killing “foreign” invaders. It’s a powerful sensory system that can detect stress levels, infections, wounds, and even cancer tumors. However, due to the complex interplay between different cell types and signaling pathways, the amount of data produced to characterize all different aspects of the immune system (tens of thousands of genes measured and hundreds of millions of cells, just from a single patient) completely overwhelms existing bioinformatics tools.</description>
+    </item>
+    
+    <item>
+      <title>The first pillar of statistical wisdom</title>
+      <link>/post/2017winter/2017-02-24/</link>
+      <pubDate>Fri, 24 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2017winter/2017-02-24/</guid>
+      <description>Date: 2017-02-24 Time: 15:30-16:30 Location: BURN 1205 Abstract: This talk will provide an introduction to the first of the pillars in Stephen Stigler&amp;rsquo;s 2016 book The Seven Pillars of Statistical Wisdom, namely “Aggregation.” It will focus on early instances of the sample mean in scientific work, on the early error distributions, and on how their “centres” were fitted.
+Speaker James A. Hanley is a Professor in the Department of Epidemiology, Biostatistics and Occupational Health, at McGill University.</description>
+    </item>
+    
+    <item>
+      <title>Building end-to-end dialogue systems using deep neural architectures</title>
+      <link>/post/2017winter/2017-02-17/</link>
+      <pubDate>Fri, 17 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2017winter/2017-02-17/</guid>
+      <description>Date: 2017-02-17 Time: 15:30-16:30 Location: BURN 1205 Abstract: The ability for a computer to converse in a natural and coherent manner with a human has long been held as one of the important steps towards solving artificial intelligence. In this talk I will present recent results on building dialogue systems from large corpuses using deep neural architectures. I will highlight several challenges related to data acquisition, algorithmic development, and performance evaluation.</description>
+    </item>
+    
+    <item>
+      <title>Sparse envelope model: Efficient estimation and response variable selection in multivariate linear regression</title>
+      <link>/post/2017winter/2017-02-10/</link>
+      <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2017winter/2017-02-10/</guid>
+      <description>Date: 2017-02-10 Time: 15:30-16:30 Location: BURN 1205 Abstract: The envelope model is a method for efficient estimation in multivariate linear regression. In this article, we propose the sparse envelope model, which is motivated by applications where some response variables are invariant to changes of the predictors and have zero regression coefficients. The envelope estimator is consistent but not sparse, and in many situations it is important to identify the response variables for which the regression coefficients are zero.</description>
+    </item>
+    
+    <item>
+      <title>MM algorithms for variance component models</title>
+      <link>/post/2017winter/2017-02-03/</link>
+      <pubDate>Fri, 03 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2017winter/2017-02-03/</guid>
+      <description>Date: 2017-02-03 Time: 15:30-16:30 Location: BURN 1205 Abstract: Variance components estimation and mixed model analysis are central themes in statistics with applications in numerous scientific disciplines. Despite the best efforts of generations of statisticians and numerical analysts, maximum likelihood estimation and restricted maximum likelihood estimation of variance component models remain numerically challenging. In this talk, we present a novel iterative algorithm for variance components estimation based on the minorization-maximization (MM) principle.</description>
+    </item>
+    
+    <item>
+      <title>Bayesian inference for conditional copula models</title>
+      <link>/post/2017winter/2017-01-27/</link>
+      <pubDate>Fri, 27 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2017winter/2017-01-27/</guid>
+      <description>Date: 2017-01-27 Time: 15:30-16:30 Location: ROOM 6254 Pavillon Andre-Aisenstadt 2920, UdeM Abstract: Conditional copula models describe dynamic changes in dependence and are useful in establishing high dimensional dependence structures or in joint modelling of response vectors in regression settings. We describe some of the methods developed for estimating the calibration function when multiple predictors are needed and for resolving some of the model choice questions concerning the selection of copula families and the shape of the calibration function.</description>
+    </item>
+    
+    <item>
+      <title>Order selection in multidimensional finite mixture models</title>
+      <link>/post/2017winter/2017-01-20/</link>
+      <pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2017winter/2017-01-20/</guid>
+      <description>Date: 2017-01-20 Time: 15:30-16:30 Location: BURN 1205 Abstract: Finite mixture models provide a natural framework for analyzing data from heterogeneous populations. In practice, however, the number of hidden subpopulations in the data may be unknown. The problem of estimating the order of a mixture model, namely the number of subpopulations, is thus crucial for many applications. In this talk, we present a new penalized likelihood solution to this problem, which is applicable to models with a multidimensional parameter space.</description>
+    </item>
+    
+    <item>
+      <title>(Sparse) exchangeable graphs</title>
+      <link>/post/2017winter/2017-01-13/</link>
+      <pubDate>Fri, 13 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2017winter/2017-01-13/</guid>
+      <description>Date: 2017-01-13 Time: 15:30-16:30 Location: BURN 1205 Abstract: Many popular statistical models for network valued datasets fall under the remit of the graphon framework, which (implicitly) assumes the networks are densely connected. However, this assumption rarely holds for the real-world networks of practical interest. We introduce a new class of models for random graphs that generalises the dense graphon models to the sparse graph regime, and we argue that this meets many of the desiderata one would demand of a model to serve as the foundation for a statistical analysis of real-world networks.</description>
+    </item>
+    
+  </channel>
+</rss>

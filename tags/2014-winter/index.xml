@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2014 Winter on McGill Statistics Seminars</title>
+    <link>/tags/2014-winter/</link>
+    <description>Recent content in 2014 Winter on McGill Statistics Seminars</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Apr 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/2014-winter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Adaptive piecewise polynomial estimation via trend filtering</title>
+      <link>/post/2014winter/2014-04-11/</link>
+      <pubDate>Fri, 11 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2014winter/2014-04-11/</guid>
+      <description>Date: 2014-04-11 Time: 15:30-16:30 Location: Salle KPMG, 1er étage HEC Montréal Abstract: We will discuss trend filtering, a recently proposed tool of Kim et al. (2009) for nonparametric regression. The trend filtering estimate is defined as the minimizer of a penalized least squares criterion, in which the penalty term sums the absolute kth order discrete derivatives over the input points. Perhaps not surprisingly, trend filtering estimates appear to have the structure of kth degree spline functions, with adaptively chosen knot points (we say “appear” here as trend filtering estimates are not really functions over continuous domains, and are only defined over the discrete set of inputs).</description>
+    </item>
+    
+    <item>
+      <title>Some aspects of data analysis under confidentiality protection</title>
+      <link>/post/2014winter/2014-04-04/</link>
+      <pubDate>Fri, 04 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2014winter/2014-04-04/</guid>
+      <description>Date: 2014-04-04 Time: 15:30-16:30 Location: BURN 1205 Abstract: Statisticians working in most federal agencies are often faced with two conflicting objectives: (1) collect and publish useful datasets for designing public policies and building scientific theories, and (2) protect confidentiality of data respondents which is essential to uphold public trust, leading to better response rates and data accuracy. In this talk I will provide a survey of two statistical methods currently used at the U.</description>
+    </item>
+    
+    <item>
+      <title>How much does the dependence structure matter?</title>
+      <link>/post/2014winter/2014-03-28/</link>
+      <pubDate>Fri, 28 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2014winter/2014-03-28/</guid>
+      <description>Date: 2014-03-28 Time: 15:30-16:30 Location: BURN 1205 Abstract: In this talk, we will look at some classical problems from an anti-traditional perspective. We will consider two problems regarding a sequence of random variables with a given common marginal distribution. First, we will introduce the notion of extreme negative dependence (END), a new benchmark for negative dependence, which is comparable to comonotonicity and independence. Second, we will study the compatibility of the marginal distribution and the limiting distribution when the dependence structure in the sequence is allowed to vary among all possibilities.</description>
+    </item>
+    
+    <item>
+      <title>Insurance company operations and dependence modeling</title>
+      <link>/post/2014winter/2014-03-21/</link>
+      <pubDate>Fri, 21 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2014winter/2014-03-21/</guid>
+      <description>Date: 2014-03-21 Time: 15:30-16:30 Location: BURN 107 Abstract: Actuaries and other analysts have long had the responsibility in insurance company operations for various financial functions including (i) ratemaking, the process of setting premiums, (ii) loss reserving, the process of predicting obligations that arise from policies, and (iii) claims management, including fraud detection. With the advent of modern computing capabilities and detailed and novel data sources, new opportunities to make an impact on insurance company operations are extensive.</description>
+    </item>
+    
+    <item>
+      <title>Mixed effects trees and forests for clustered data</title>
+      <link>/post/2014winter/2014-03-14/</link>
+      <pubDate>Fri, 14 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2014winter/2014-03-14/</guid>
+      <description>Date: 2014-03-14 Time: 15:30-16:30 Location: BURN 1205 Abstract: In this talk, I will present extensions of tree-based and random forest methods for the case of clustered data. The proposed methods can handle unbalanced clusters, allows observations within clusters to be splitted, and can incorporate random effects and observation-level covariates. The basic tree-building algorithm for a continuous outcome is implemented using standard algorithms within the framework of the EM algorithm. The extension to other types of outcomes (e.</description>
+    </item>
+    
+    <item>
+      <title>ABC as the new empirical Bayes approach?</title>
+      <link>/post/2014winter/2014-02-28/</link>
+      <pubDate>Fri, 28 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2014winter/2014-02-28/</guid>
+      <description>Date: 2014-02-28 Time: 13:30-14:30 Location: UdM, Pav. Roger-Gaudry, Salle S-116 Abstract: Approximate Bayesian computation (ABC) has now become an essential tool for the analysis of complex stochastic models when the likelihood function is unavailable. The approximation is seen as a nuisance from a computational statistic point of view but we argue here it is also a blessing from an inferential perspective. We illustrate this paradoxical stand in the case of dynamic models and population genetics models.</description>
+    </item>
+    
+    <item>
+      <title>On the multivariate analysis of neural spike trains: Skellam process with resetting and its applications</title>
+      <link>/post/2014winter/2014-02-21/</link>
+      <pubDate>Fri, 21 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2014winter/2014-02-21/</guid>
+      <description>Date: 2014-02-21 Time: 15:30-16:30 Location: BURN 1205 Abstract: Nerve cells (a.k.a. neurons) communicate via electrochemical waves (action potentials), which are usually called spikes as they are very localized in time. A sequence of consecutive spikes from one neuron is called a spike train. The exact mechanism of information coding in spike trains is still an open problem; however, one popular approach is to model spikes as realizations of an inhomogeneous Poisson process.</description>
+    </item>
+    
+    <item>
+      <title>Divergence based inference for general estimating equations</title>
+      <link>/post/2014winter/2014-02-14/</link>
+      <pubDate>Fri, 14 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2014winter/2014-02-14/</guid>
+      <description>Date: 2014-02-14 Time: 15:30-16:30 Location: BURN 1205 Abstract: Hellinger distance and its variants have long been used in the theory of robust statistics to develop inferential tools that are more robust than the maximum likelihood but as ecient as the MLE when the posited model holds. A key aspect of this alternative approach requires specication of a parametric family, which is usually not feasible in the context of problems involving complex data structures wherein estimating equations are typically used for inference.</description>
+    </item>
+    
+    <item>
+      <title>Statistical techniques for the normalization and segmentation of structural MRI</title>
+      <link>/post/2014winter/2014-02-07/</link>
+      <pubDate>Fri, 07 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2014winter/2014-02-07/</guid>
+      <description>Date: 2014-02-07 Time: 15:30-16:30 Location: BURN 1205 Abstract: While computed tomography and other imaging techniques are measured in absolute units with physical meaning, magnetic resonance images are expressed in arbitrary units that are difficult to interpret and differ between study visits and subjects. Much work in the image processing literature has centered on histogram matching and other histogram mapping techniques, but little focus has been on normalizing images to have biologically interpretable units.</description>
+    </item>
+    
+    <item>
+      <title>An exchangeable Kendall&#39;s tau for clustered data</title>
+      <link>/post/2014winter/2014-01-31/</link>
+      <pubDate>Fri, 31 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2014winter/2014-01-31/</guid>
+      <description>Date: 2014-01-31 Time: 15:30-16:30 Location: BURN 1205 Abstract: I&amp;rsquo;ll introduce the exchangeable Kendall&amp;rsquo;s tau as a nonparametric intra class association measure in a clustered data frame and provide an estimator for this measure. The asymptotic properties of this estimator are investigated under a multivariate exchangeable cdf. Two applications of the proposed statistic are considered. The first is an estimator of the intraclass correlation coefficient for data drawn from an elliptical distribution.</description>
+    </item>
+    
+    <item>
+      <title>Calibration of computer experiments with large data structures</title>
+      <link>/post/2014winter/2014-01-24/</link>
+      <pubDate>Fri, 24 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2014winter/2014-01-24/</guid>
+      <description>Date: 2014-01-24 Time: 15:30-16:30 Location: Salle 1355, pavillon André-Aisenstadt (CRM) Abstract: Statistical model calibration of computer models is commonly done in a wide variety of scientific endeavours. In the end, this exercise amounts to solving an inverse problem and a form of regression. Gaussian process model are very convenient in this setting as non-parametric regression estimators and provide sensible inference properties. However, when the data structures are large, fitting the model becomes difficult.</description>
+    </item>
+    
+    <item>
+      <title>An introduction to stochastic partial differential equations and intermittency</title>
+      <link>/post/2014winter/2014-01-10/</link>
+      <pubDate>Fri, 10 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2014winter/2014-01-10/</guid>
+      <description>Date: 2014-01-10 Time: 15:30-16:30 Location: BURN 1205 Abstract: In a seminal article in 1944, Itô introduced the stochastic integral with respect to the Brownian motion, which turned out to be one of the most fruitful ideas in mathematics in the 20th century. This lead to the development of stochastic analysis, a field which includes the study of stochastic partial differential equations (SPDEs). One of the approaches for the study of SPDEs was initiated by Walsh (1986) and relies on the concept of random-field solution for equations perturbed by a space-time white noise (or Brownian sheet).</description>
+    </item>
+    
+  </channel>
+</rss>

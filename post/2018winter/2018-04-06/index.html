@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+<meta name="pinterest" content="nopin">
+<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+<meta name="generator" content="Hugo 0.36" />
+
+
+
+<link rel="canonical" href="/post/2018winter/2018-04-06/">
+
+
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/solarized_dark.min.css">
+    <title>Empirical likelihood and robust regression in diffusion tensor imaging data analysis - McGill Statistics Seminars</title>
+    
+<meta name="description" content="Date: 2018-04-06 Time: 15:30-16:30 Location: BURN 1205 Abstract: With modern technology development, functional responses are observed frequently in various scientific fields including neuroimaging data analysis. Empirical likelihood as a nonparametric data-driven technique has become an important statistical inference methodology. In this paper, motivated by diffusion tensor imaging (DTI) data we propose three generalized empirical likelihood-based methods that accommodate within-curve dependence on the varying coefficient model with functional responses and embed a robust regression idea.">
+
+<meta property="og:title" content="Empirical likelihood and robust regression in diffusion tensor imaging data analysis - McGill Statistics Seminars">
+<meta property="og:type" content="article">
+<meta property="og:url" content="/post/2018winter/2018-04-06/">
+<meta property="og:image" content="/images/default.png">
+<meta property="og:site_name" content="McGill Statistics Seminars">
+<meta property="og:description" content="Date: 2018-04-06 Time: 15:30-16:30 Location: BURN 1205 Abstract: With modern technology development, functional responses are observed frequently in various scientific fields including neuroimaging data analysis. Empirical likelihood as a nonparametric data-driven technique has become an important statistical inference methodology. In this paper, motivated by diffusion tensor imaging (DTI) data we propose three generalized empirical likelihood-based methods that accommodate within-curve dependence on the varying coefficient model with functional responses and embed a robust regression idea.">
+<meta property="og:locale" content="ja_JP">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="McGill Statistics Seminars">
+<meta name="twitter:url" content="/post/2018winter/2018-04-06/">
+<meta name="twitter:title" content="Empirical likelihood and robust regression in diffusion tensor imaging data analysis - McGill Statistics Seminars">
+<meta name="twitter:description" content="Date: 2018-04-06 Time: 15:30-16:30 Location: BURN 1205 Abstract: With modern technology development, functional responses are observed frequently in various scientific fields including neuroimaging data analysis. Empirical likelihood as a nonparametric data-driven technique has become an important statistical inference methodology. In this paper, motivated by diffusion tensor imaging (DTI) data we propose three generalized empirical likelihood-based methods that accommodate within-curve dependence on the varying coefficient model with functional responses and embed a robust regression idea.">
+<meta name="twitter:image" content="/images/default.png">
+
+
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "NewsArticle",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id":"/"
+    },
+    "headline": "Empirical likelihood and robust regression in diffusion tensor imaging data analysis - McGill Statistics Seminars",
+    "image": {
+      "@type": "ImageObject",
+      "url": "/images/default.png",
+      "height": 800,
+      "width": 800
+    },
+    "datePublished": "2018-04-06T00:00:00JST",
+    "dateModified": "2018-04-06T00:00:00JST",
+    "author": {
+      "@type": "Person",
+      "name": "McGill Statistics Seminars"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "McGill Statistics Seminars",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "/images/logo.png",
+        "width": 600,
+        "height": 60
+      }
+    },
+    "description": "Date: 2018-04-06 Time: 15:30-16:30 Location: BURN 1205 Abstract: With modern technology development, functional responses are observed frequently in various scientific fields including neuroimaging data analysis. Empirical likelihood as a nonparametric data-driven technique has become an important statistical inference methodology. In this paper, motivated by diffusion tensor imaging (DTI) data we propose three generalized empirical likelihood-based methods that accommodate within-curve dependence on the varying coefficient model with functional responses and embed a robust regression idea."
+  }
+</script>
+
+
+    <link href="/css/styles.css" rel="stylesheet">
+    
+
+  </head>
+
+  <body>
+    
+    
+    
+
+    <header class="l-header">
+      <nav class="navbar navbar-default">
+        <div class="container">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/">McGill Statistics Seminars</a>
+          </div>
+
+          
+          <div id="navbar" class="collapse navbar-collapse">
+            
+            <ul class="nav navbar-nav navbar-right">
+              
+              
+              <li><a href="/">Current Seminar Series</a></li>
+              
+              
+              
+              <li><a href="/post/">Past Seminar Series</a></li>
+              
+              
+            </ul>
+            
+          </div>
+          
+
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      <div class="container">
+        
+<div class="row">
+  <div class="col-md-8">
+
+    <nav class="p-crumb">
+      <ol class="breadcrumb">
+        <li><a href="/"><i class="fa fa-home" aria-hidden="true"></i></a></li>
+        
+        <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/post/" itemprop="url"><span itemprop="title">post</span></a></li>
+        
+        <li class="active">Linglong Kong</li>
+      </ol>
+    </nav>
+
+    <article class="single">
+  <header>
+    <ul class="p-facts">
+      <li><i class="fa fa-calendar" aria-hidden="true"></i><time datetime="2018-04-06T00:00:00JST">Apr 6, 2018</time></li>
+      <li><i class="fa fa-bookmark" aria-hidden="true"></i><a href="/post/">post</a></li>
+      
+    </ul>
+
+    <h2 class="title">Empirical likelihood and robust regression in diffusion tensor imaging data analysis</h1>
+    <h3 class="post-meta">Linglong Kong </h3>
+    
+  </header>
+
+  
+
+  <div class="article-body">
+
+<h4 id="date-2018-04-06">Date: 2018-04-06</h4>
+
+<h4 id="time-15-30-16-30">Time: 15:30-16:30</h4>
+
+<h4 id="location-burn-1205">Location: BURN 1205</h4>
+
+<h2 id="abstract">Abstract:</h2>
+
+<p>With modern technology development, functional responses are  observed frequently in various scientific fields including neuroimaging data analysis. Empirical likelihood as a nonparametric data-driven technique has become an important statistical inference methodology. In this paper, motivated by diffusion tensor imaging (DTI) data we propose three generalized empirical likelihood-based methods that accommodate within-curve dependence on the varying coefficient model with functional responses and embed a robust regression idea. To avoid the loss of efficiency in statistical inference, we take into consideration within-curve variance-covariance matrix in the subjectwise and elementwise empirical likelihood methods. We develop several statistical inference procedures for maximum empirical likelihood estimators (MELEs) and empirical log likelihood (ELL) ratio functions, and systematically study their asymptotic properties. We first establish the weak convergence of the MELEs and the ELL ratio processes, and derived a nonparametric version of the Wilks theorem for the limiting distributions of the ELLs at any designed point. We propose a global test for linear hypotheses of varying coefficient functions and construct simultaneous confidence bands for each individual effect curve based on MELEs, and construct simultaneous confidence regions for varying coefficient functions based on ELL ratios. A Monte Carlo simulation is conducted to examine the finite-sample performance of the proposed procedures. Finally, we illustrate the estimation and inference procedures on MELEs of varying coefficient model to a diffusion tensor imaging data from Alzheimer&rsquo;s Disease Neuroimaging Initiative (ADNI) study. Joint work with Xingcai Zhou (Nanjing Audit University), Rohana Karunamuni and Adam Kashlak (University of Alberta).</p>
+
+<h2 id="speaker">Speaker</h2>
+
+<p>Linglong Kong is an Assistant Professor in the Department of Mathematical and Statistical Sciences
+at the University of Alberta. His research includes: Functional and Neuroimaging Data Analysis, Statistical Machine Learning, Robust Statistics and Quantile Regression</p>
+</div>
+
+  <footer class="article-footer">
+    
+    
+    
+    <section class="bordered">
+      <header>
+        <div class="panel-title">CATEGORIES</div>
+      </header>
+      <div>
+        <ul class="p-terms">
+          
+          <li><a href="/categories/mcgill-statistics-seminar/">McGill Statistics Seminar</a></li>
+          
+        </ul>
+      </div>
+    </section>
+    
+    
+    
+    <section class="bordered">
+      <header>
+        <div class="panel-title">TAGS</div>
+      </header>
+      <div>
+        <ul class="p-terms">
+          
+          <li><a href="/tags/2018-winter/">2018 Winter</a></li>
+          
+        </ul>
+      </div>
+    </section>
+    
+    
+  </footer>
+
+</article>
+
+
+    
+  </div>
+
+  <div class="col-md-4">
+    
+<aside class="l-sidebar">
+
+  <section class="panel panel-default">
+    <div class="panel-heading">
+      <div class="panel-title">Recent Talks</div>
+    </div>
+    <div class="list-group">
+      
+      <a href="/post/2018fall/2018-09-14/" class="list-group-item">Matus Maciak · Sep 14, 2018</a>
+      
+      <a href="/post/2018fall/2018-09-07/" class="list-group-item">Chien-Lin (Mark) Su · Sep 7, 2018</a>
+      
+      <a href="/post/2018winter/2018-04-27/" class="list-group-item">Martin Wolkewitz · Apr 27, 2018</a>
+      
+      <a href="/post/2018winter/2018-04-20/" class="list-group-item">Ranjan Maitra · Apr 20, 2018</a>
+      
+      <a href="/post/2018winter/2018-04-06/" class="list-group-item">Linglong Kong · Apr 6, 2018</a>
+      
+    </div>
+  </section>
+
+  
+  <section class="panel panel-default">
+    <div class="panel-heading">
+      <div class="panel-title">CATEGORY</div>
+    </div>
+    <div class="list-group">
+      
+      <a href="/categories/mcgill-statistics-seminar" class="list-group-item">mcgill-statistics-seminar</a>
+      
+      <a href="/categories/crm-ssc-prize-address" class="list-group-item">crm-ssc-prize-address</a>
+      
+      <a href="/categories/crm-colloquium" class="list-group-item">crm-colloquium</a>
+      
+    </div>
+  </section>
+  
+  <section class="panel panel-default">
+    <div class="panel-heading">
+      <div class="panel-title">TAG</div>
+    </div>
+    <div class="list-group">
+      
+      <a href="/tags/2018-winter" class="list-group-item">2018-winter</a>
+      
+      <a href="/tags/2018-fall" class="list-group-item">2018-fall</a>
+      
+      <a href="/tags/2017-winter" class="list-group-item">2017-winter</a>
+      
+      <a href="/tags/2017-fall" class="list-group-item">2017-fall</a>
+      
+      <a href="/tags/2016-winter" class="list-group-item">2016-winter</a>
+      
+      <a href="/tags/2016-fall" class="list-group-item">2016-fall</a>
+      
+      <a href="/tags/2015-winter" class="list-group-item">2015-winter</a>
+      
+      <a href="/tags/2015-fall" class="list-group-item">2015-fall</a>
+      
+      <a href="/tags/2014-winter" class="list-group-item">2014-winter</a>
+      
+      <a href="/tags/2014-fall" class="list-group-item">2014-fall</a>
+      
+      <a href="/tags/2013-winter" class="list-group-item">2013-winter</a>
+      
+      <a href="/tags/2013-fall" class="list-group-item">2013-fall</a>
+      
+      <a href="/tags/2012-winter" class="list-group-item">2012-winter</a>
+      
+      <a href="/tags/2012-fall" class="list-group-item">2012-fall</a>
+      
+      <a href="/tags/2011-fall" class="list-group-item">2011-fall</a>
+      
+    </div>
+  </section>
+  
+
+</aside>
+
+
+  </div>
+</div>
+
+      </div>
+    </main>
+
+    <footer class="l-footer">
+      <div class="container">
+        <p><span class="h-logo">&copy; McGill Statistics Seminars</span></p>
+        <aside>
+          <p><a href="http://www.mcgill.ca/mathstat/">Department of Mathematics and Statistics</a>.</p>
+          <p><a href="https://www.mcgill.ca/">McGill University</a></p>
+        </aside>
+      </div>
+    </footer>
+
+    <script src="//code.jquery.com/jquery-3.1.1.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+  </body>
+</html>
+

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Crm Ssc Prize Address on McGill Statistics Seminars</title>
+    <link>/categories/crm-ssc-prize-address/</link>
+    <description>Recent content in Crm Ssc Prize Address on McGill Statistics Seminars</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/crm-ssc-prize-address/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Back to the future: why I think REGRESSION is the new black in genetic association studies</title>
+      <link>/post/2018winter/2018-01-26/</link>
+      <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018winter/2018-01-26/</guid>
+      <description>Date: 2018-01-26 Time: 15:30-16:30 Location: ROOM 6254 Pavillon Andre-Aisenstadt 2920, UdeM Abstract: Linear regression remains an important framework in the era of big and complex data. In this talk I present some recent examples where we resort to the classical simple linear regression model and its celebrated extensions in novel settings. The Eureka moment came while reading Wu and Guan&amp;rsquo;s (2015) comments on our generalized Kruskal-Wallis (GKW) test (Elif Acar and Sun 2013, Biometrics).</description>
+    </item>
+    
+    <item>
+      <title>Bayesian inference for conditional copula models</title>
+      <link>/post/2017winter/2017-01-27/</link>
+      <pubDate>Fri, 27 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2017winter/2017-01-27/</guid>
+      <description>Date: 2017-01-27 Time: 15:30-16:30 Location: ROOM 6254 Pavillon Andre-Aisenstadt 2920, UdeM Abstract: Conditional copula models describe dynamic changes in dependence and are useful in establishing high dimensional dependence structures or in joint modelling of response vectors in regression settings. We describe some of the methods developed for estimating the calibration function when multiple predictors are needed and for resolving some of the model choice questions concerning the selection of copula families and the shape of the calibration function.</description>
+    </item>
+    
+    <item>
+      <title>Outlier detection for functional data using principal components</title>
+      <link>/post/2016winter/2016-02-11/</link>
+      <pubDate>Thu, 11 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2016winter/2016-02-11/</guid>
+      <description>Date: 2016-02-11 Time: 16:00-17:00 Location: CRM 6254 (U. de Montréal) Abstract: Principal components analysis is a widely used technique that provides an optimal lower-dimensional approximation to multivariate observations. In the functional case, a new characterization of elliptical distributions on separable Hilbert spaces allows us to obtain an equivalent stochastic optimality property for the principal component subspaces of random elements on separable Hilbert spaces. This property holds even when second moments do not exist.</description>
+    </item>
+    
+    <item>
+      <title>Changbao Wu: Analysis of complex survey data with missing observations</title>
+      <link>/post/2013winter/2013-02-22/</link>
+      <pubDate>Fri, 22 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2013winter/2013-02-22/</guid>
+      <description>Date: 2013-02-22 Time: 14:30-15:30 Location: CRM, Université de Montréal, Pav. André-Ainsenstadt, salle 1360 Abstract: In this talk, we first provide an overview of issues arising from and methods dealing with complex survey data in the presence of missing observations, with a major focus on the estimating equation approach for analysis and imputation methods for missing data. We then propose a semiparametric fractional imputation method for handling item nonresponses, assuming certain baseline auxiliary variables can be observed for all units in the sample.</description>
+    </item>
+    
+  </channel>
+</rss>

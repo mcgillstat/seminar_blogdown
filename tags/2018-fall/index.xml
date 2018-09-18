@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2018 Fall on McGill Statistics Seminars</title>
+    <link>/tags/2018-fall/</link>
+    <description>Recent content in 2018 Fall on McGill Statistics Seminars</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/2018-fall/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Quantile LASSO in Nonparametric Models with Changepoints Under Optional Shape Constraints</title>
+      <link>/post/2018fall/2018-09-14/</link>
+      <pubDate>Fri, 14 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018fall/2018-09-14/</guid>
+      <description>Date: 2018-09-14 Time: 15:30-16:30 Location: BURN 1104 Abstract: Nonparametric models are popular modeling tools because of their natural overall flexibility. In our approach, we apply nonparametric techniques for panel data structures with changepoints and optional shape constraints and the estimation is performed in a fully data driven manner by utilizing atomic pursuit methods – LASSO regularization techniques in particular. However, in order to obtain robust estimates and, also, to have a more complex insight into the underlying data structure, we target conditional quantiles rather then the conditional mean only.</description>
+    </item>
+    
+    <item>
+      <title>Association Measures for Clustered Competing Risks Data</title>
+      <link>/post/2018fall/2018-09-07/</link>
+      <pubDate>Fri, 07 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018fall/2018-09-07/</guid>
+      <description>Date: 2018-09-07 Time: 15:30-16:30 Location: BURN 1104 Abstract: In this work, we propose a semiparametric model for multivariate clustered competing risks data when the cause-specific failure times and the occurrence of competing risk events among subjects within the same cluster are of interest. The cause-specific hazard functions are assumed to follow Cox proportional hazard models, and the associations between failure times given the same or different cause events and the associations between occurrences of competing risk events within the same cluster are investigated through copula models.</description>
+    </item>
+    
+  </channel>
+</rss>

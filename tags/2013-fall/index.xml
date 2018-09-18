@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2013 Fall on McGill Statistics Seminars</title>
+    <link>/tags/2013-fall/</link>
+    <description>Recent content in 2013 Fall on McGill Statistics Seminars</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Dec 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/2013-fall/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Great probabilists publish posthumously</title>
+      <link>/post/2013fall/2013-12-06/</link>
+      <pubDate>Fri, 06 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2013fall/2013-12-06/</guid>
+      <description>Date: 2013-12-06 Time: 15:30-16:30 Location: UQAM Salle SH-3420 Abstract: Jacob Bernoulli died in 1705. His great book Ars Conjectandi was published in 1713, 300 years ago. Thomas Bayes died in 1761. His great paper was read to the Royal Society of London in December 1763, 250 years ago, and published in 1764. These anniversaries are noted by discussing new evidence regarding the circumstances of publication, which in turn can lead to a better understanding of the works themselves.</description>
+    </item>
+    
+    <item>
+      <title>Signal detection in high dimension: Testing sphericity against spiked alternatives</title>
+      <link>/post/2013fall/2013-11-29/</link>
+      <pubDate>Fri, 29 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2013fall/2013-11-29/</guid>
+      <description>Date: 2013-11-29 Time: 15:30-16:30 Location: Concordia MB-2.270 Abstract: We consider the problem of testing the null hypothesis of sphericity for a high-dimensional covariance matrix against the alternative of a finite (unspecified) number of symmetry-breaking directions (multispiked alternatives) from the point of view of the asymptotic theory of statistical experiments. The region lying below the so-called phase transition or impossibility threshold is shown to be a contiguity region. Simple analytical expressions are derived for the asymptotic power envelope and the asymptotic powers of existing tests.</description>
+    </item>
+    
+    <item>
+      <title>Tail order and its applications</title>
+      <link>/post/2013fall/2013-11-22/</link>
+      <pubDate>Fri, 22 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2013fall/2013-11-22/</guid>
+      <description>Date: 2013-11-22 Time: 15:30-16:30 Location: BURN 1205 Abstract: Tail order is a notion for quantifying the strength of dependence in the tail of a joint distribution. It can account for a wide range of dependence, ranging from tail positive dependence to tail negative dependence. We will introduce theory and applications of tail order. Conditions for tail orders of copula families will be discussed, and they are helpful in guiding us to find suitable copula families for statistical inference.</description>
+    </item>
+    
+    <item>
+      <title>Submodel selection and post estimation: Making sense or folly</title>
+      <link>/post/2013fall/2013-11-15/</link>
+      <pubDate>Fri, 15 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2013fall/2013-11-15/</guid>
+      <description>Date: 2013-11-15 Time: 15:30-16:30 Location: BURN 1205 Abstract: In this talk, we consider estimation in generalized linear models when there are many potential predictors and some of them may not have influence on the response of interest. In the context of two competing models where one model includes all predictors and the other restricts variable coefficients to a candidate linear subspace based on subject matter or prior knowledge, we investigate the relative performances of Stein type shrinkage, pretest, and penalty estimators (L1GLM, adaptive L1GLM, and SCAD) with respect to the full model estimator.</description>
+    </item>
+    
+    <item>
+      <title>The inadequacy of the summed score (and how you can fix it!)</title>
+      <link>/post/2013fall/2013-11-08/</link>
+      <pubDate>Fri, 08 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2013fall/2013-11-08/</guid>
+      <description>Date: 2013-11-08 Time: 15:30-16:30 Location: BURN 1205 Abstract: Health researchers often use patient and physician questionnaires to assess certain aspects of health status. Item Response Theory (IRT) provides a set of tools for examining the properties of the instrument and for estimation of the latent trait for each individual. In my research, I critically examine the usefulness of the summed score over items and an alternative weighted summed score (using weights computed from the IRT model) as an alternative to both the empirical Bayes estimator and maximum likelihood estimator for the Generalized Partial Credit Model.</description>
+    </item>
+    
+    <item>
+      <title>Bayesian latent variable modelling of longitudinal family data for genetic pleiotropy studies</title>
+      <link>/post/2013fall/2013-11-01/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2013fall/2013-11-01/</guid>
+      <description>Date: 2013-11-01 Time: 15:30-16:30 Location: BURN 1205 Abstract: Motivated by genetic association studies of pleiotropy, we propose a Bayesian latent variable approach to jointly study multiple outcomes or phenotypes. The proposed method models both continuous and binary phenotypes, and it accounts for serial and familial correlations when longitudinal and pedigree data have been collected. We present a Bayesian estimation method for the model parameters and we discuss some of the model misspecification effects.</description>
+    </item>
+    
+    <item>
+      <title>XY - Basketball meets Big Data</title>
+      <link>/post/2013fall/2013-10-25/</link>
+      <pubDate>Fri, 25 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2013fall/2013-10-25/</guid>
+      <description>Date: 2013-10-25 Time: 15:30-16:30 Location: HEC Montréal Salle CIBC 1er étage Abstract: In this talk, I will explore the state of the art in the analysis and modeling of player tracking data in the NBA. In the past, player tracking data has been used primarily for visualization, such as understanding the spatial distribution of a player’s shooting characteristics, or to extract summary statistics, such as the distance traveled by a player in a given game.</description>
+    </item>
+    
+    <item>
+      <title>Whole genome 3D architecture of chromatin and regulation</title>
+      <link>/post/2013fall/2013-10-18/</link>
+      <pubDate>Fri, 18 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2013fall/2013-10-18/</guid>
+      <description>Date: 2013-10-18 Time: 15:30-16:30 Location: BURN 1205 Abstract: The expression of a gene is usually controlled by the regulatory elements in its promoter region. However, it has long been hypothesized that, in complex genomes, such as the human genome, a gene may be controlled by distant enhancers and repressors. A recent molecular technique, 3C (chromosome conformation capture), that uses formaldehyde cross-linking and locus-specific PCR, was able to detect physical contacts between distant genomic loci.</description>
+    </item>
+    
+    <item>
+      <title>Some recent developments in likelihood-based small area estimation</title>
+      <link>/post/2013fall/2013-10-04/</link>
+      <pubDate>Fri, 04 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2013fall/2013-10-04/</guid>
+      <description>Date: 2013-10-04 Time: 15:30-16:30 Location: BURN 1205 Abstract: Mixed models are commonly used for the analysis data in small area estimation. In particular, small area estimation has been extensively studied under linear mixed models. However, in practice there are many situations that we have counts or proportions in small area estimation; for example a (monthly) dataset on the number of incidences in small areas. Recently, small area estimation under the linear mixed model with penalized spline model, for xed part of the model, was studied.</description>
+    </item>
+    
+    <item>
+      <title>Measurement error and variable selection in parametric and nonparametric models</title>
+      <link>/post/2013fall/2013-09-27/</link>
+      <pubDate>Fri, 27 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2013fall/2013-09-27/</guid>
+      <description>Date: 2013-09-27 Time: 15:30-16:30 Location: RPHYS 114 Abstract: This talk will start with a discussion of the relationships between LASSO estimation, ridge regression, and attenuation due to measurement error as motivation for, and introduction to, a new generalizable approach to variable selection in parametric and nonparametric regression and discriminant analysis. The approach transcends the boundaries of parametric/nonparametric models. It will first be described in the familiar context of linear regression where its relationship to the LASSO will be described in detail.</description>
+    </item>
+    
+    <item>
+      <title>Tests of independence for sparse contingency tables and beyond</title>
+      <link>/post/2013fall/2013-09-20/</link>
+      <pubDate>Fri, 20 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2013fall/2013-09-20/</guid>
+      <description>Date: 2013-09-20 Time: 15:30-16:30 Location: BURN 1205 Abstract: In this talk, a new and consistent statistic is proposed to test whether two discrete random variables are independent. The test is based on a statistic of the Cramér–von Mises type constructed from the so-called empirical checkerboard copula. The test can be used even for sparse contingency tables or tables whose dimension changes with the sample size. Because the limiting distribution of the test statistic is not tractable, a valid bootstrap procedure for the computation of p-values will be discussed.</description>
+    </item>
+    
+    <item>
+      <title>Bayesian nonparametric density estimation under length bias sampling</title>
+      <link>/post/2013fall/2013-09-13/</link>
+      <pubDate>Fri, 13 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2013fall/2013-09-13/</guid>
+      <description>Date: 2013-09-13 Time: 15:30-16:30 Location: BURN 1205 Abstract: A new density estimation method in a Bayesian nonparametric framework is presented when recorded data are not coming directly from the distribution of interest, but from a length biased version. From a Bayesian perspective, efforts to computationally evaluate posterior quantities conditionally on length biased data were hindered by the inability to circumvent the problem of a normalizing constant. In this talk a novel Bayesian nonparametric approach to the length bias sampling problem is presented which circumvents the issue of the normalizing constant.</description>
+    </item>
+    
+  </channel>
+</rss>
