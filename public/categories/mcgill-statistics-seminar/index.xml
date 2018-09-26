@@ -6,10 +6,28 @@
     <description>Recent content in Mcgill Statistics Seminar on McGill Statistics Seminars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/mcgill-statistics-seminar/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Selective inference for dynamic treatment regimes via the LASSO</title>
+      <link>/post/2018fall/2018-09-28/</link>
+      <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018fall/2018-09-28/</guid>
+      <description>Date: 2018-09-28 Time: 15:30-16:30 Location: BURN 1104 Abstract: Constructing an optimal dynamic treatment regime become complex when there are large number of prognostic factors, such as patient’s genetic information, demographic characteristics, medical history over time. Existing methods only focus on selecting the important variables for the decision-making process and fall short in providing inference for the selected model. We fill this gap by leveraging the conditional selective inference methodology. We show that the proposed method is asymptotically valid given certain rate assumptions in semiparametric regression.</description>
+    </item>
+    
+    <item>
+      <title>Possession Sketches: Mapping NBA Strategies</title>
+      <link>/post/2018fall/2018-09-21/</link>
+      <pubDate>Fri, 21 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018fall/2018-09-21/</guid>
+      <description>Date: 2018-09-21 Time: 09:30-10:15 Location: Bronfman Building 001 Abstract: We present Possession Sketches, a new machine learning method for organizing and exploring a database of basketball player-tracks. Our method organizes basketball possessions by offensive structure. We first develop a model for populating a dictionary of short, repeated, and spatially registered actions. Each action corresponds to an interpretable type of player movement. We examine statistical patterns in these actions, and show how they can be used to describe individual player behavior.</description>
+    </item>
     
     <item>
       <title>Quantile LASSO in Nonparametric Models with Changepoints Under Optional Shape Constraints</title>

@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/2018fall/2018-09-28/</loc>
+    <lastmod>2018-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2018fall/2018-09-21/</loc>
+    <lastmod>2018-09-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/2018fall/2018-09-14/</loc>
     <lastmod>2018-09-14T00:00:00+00:00</lastmod>
   </url>
@@ -1007,7 +1017,7 @@
   
   <url>
     <loc>/tags/2018-fall/</loc>
-    <lastmod>2018-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1036,7 +1046,7 @@
   
   <url>
     <loc>/categories/mcgill-statistics-seminar/</loc>
-    <lastmod>2018-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
