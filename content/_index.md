@@ -12,7 +12,7 @@ menu: main
 | Sep 14 | McGill Statistics Seminar | Matus Maciak       | [Quantile LASSO in Nonparametric Models with Changepoints Under Optional Shape Constraints]({{< relref "post/2018fall/2018-09-14.md">}}) | 15:30-16:30 | BURN 1104 |
 | Sep 21 | McGill Statistics Seminar | Luke Bornn         |	 [Possession Sketches: Mapping NBA Strategies]({{< relref "post/2018fall/2018-09-21.md">}}) | 9:30-10:15 | Bronfman Building 001 |
 | Sep 28 | McGill Statistics Seminar | Ashkan Ertefaie    |	 [Selective inference for dynamic treatment regimes via the LASSO]({{< relref "post/2018fall/2018-09-28.md">}}) | 15:30-16:30 | BURN 1205 |
-| Oct 5 | McGill Statistics Seminar | Yeying Zhu |	TBA | 15:30-16:30 | BURN 1104 |
+| Oct 5 | McGill Statistics Seminar | Yeying Zhu |	[Dimension Reduction for Causal Inference]({{< relref "post/2018fall/2018-10-05.md">}}) | 15:30-16:30 | BURN 1104 |
 | Oct 12 | CRM Colloquium            | David Haziza|	Conférence du lauréat 2018 du Prix CRM-SSC | 16:00- | CRM, UdeM, Pavillon André-Aisenstadt, salle 6254 |
 | Oct 19 | McGill Statistics Seminar | Long Nguyen|	TBA | 15:30-16:30 | BURN 1104 |
 | Oct 26 | McGill Statistics Seminar | Dehan Kong|	TBA | 15:30-16:30 | BURN 1104 |
