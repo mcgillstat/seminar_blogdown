@@ -14,7 +14,7 @@ menu: main
 | Sep 28 | McGill Statistics Seminar | Ashkan Ertefaie    |	 [Selective inference for dynamic treatment regimes via the LASSO]({{< relref "post/2018fall/2018-09-28.md">}}) | 15:30-16:30 | BURN 1205 |
 | Oct 5 | McGill Statistics Seminar | Yeying Zhu |	[Dimension Reduction for Causal Inference]({{< relref "post/2018fall/2018-10-05.md">}}) | 15:30-16:30 | BURN 1104 |
 | Oct 12 | CRM Colloquium            | David Haziza|	[Conférence du lauréat 2018 du Prix CRM-SSC]({{< relref "post/2018fall/2018-10-12.md">}}) | 16:00- | CRM, UdeM, Pavillon André-Aisenstadt, salle 6254 |
-| Oct 19 | McGill Statistics Seminar | Long Nguyen|	TBA | 15:30-16:30 | BURN 1104 |
+| Oct 19 | McGill Statistics Seminar | Long Nguyen|	[Multilevel clustering and optimal transport]({{< relref "post/2018fall/2018-10-19.md">}}) | 15:30-16:30 | BURN 1104 |
 | Oct 26 | McGill Statistics Seminar | Dehan Kong|	TBA | 15:30-16:30 | BURN 1104 |
 | Nov 2  | McGill Statistics Seminar | Andreas Kyprianou|	TBA | 15:30-16:30 | BURN 1104 |
 | Nov 9  | McGill Statistics Seminar | Abbas Mehrabian|	TBA | 15:30-16:30 | BURN 1104 |
