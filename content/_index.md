@@ -15,8 +15,8 @@ menu: main
 | Oct 5 | McGill Statistics Seminar | Yeying Zhu |	[Dimension Reduction for Causal Inference]({{< relref "post/2018fall/2018-10-05.md">}}) | 15:30-16:30 | BURN 1104 |
 | Oct 12 | CRM Colloquium            | David Haziza|	[Conférence du lauréat 2018 du Prix CRM-SSC]({{< relref "post/2018fall/2018-10-12.md">}}) | 16:00- | CRM, UdeM, Pavillon André-Aisenstadt, salle 6254 |
 | Oct 19 | McGill Statistics Seminar | Long Nguyen|	[Multilevel clustering and optimal transport]({{< relref "post/2018fall/2018-10-19.md">}}) | 15:30-16:30 | BURN 1104 |
-| Oct 26 | McGill Statistics Seminar | Dehan Kong|	TBA | 15:30-16:30 | BURN 1104 |
-| Nov 2  | McGill Statistics Seminar | Andreas Kyprianou|	TBA | 15:30-16:30 | BURN 1104 |
+| Oct 26 | McGill Statistics Seminar | Dehan Kong|	[Object Oriented Data Analysis with Application to Neuroimaging Studies]({{< relref "post/2018fall/2018-10-26.md">}}) | 15:30-16:30 | BURN 1104 |
+| Nov 2  | McGill Statistics Seminar | Andreas Kyprianou|	[Terrorists never congregate in even numbers (and other strange results in fragmentation-coalescence)]({{< relref "post/2018fall/2018-11-02.md">}}) | 15:30-16:30 | BURN 1104 |
 | Nov 9  | McGill Statistics Seminar | Abbas Mehrabian|	TBA | 15:30-16:30 | BURN 1104 |
 | Nov 16  | McGill Statistics Seminar | Arian Maleki|	TBA | 15:30-16:30 | BURN 1104 |
 | Nov 23  | McGill Statistics Seminar | David Wolfson |	TBA | 15:30-16:30 | BURN 1104 |
