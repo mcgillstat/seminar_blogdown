@@ -18,6 +18,6 @@ menu: main
 | Oct 26 | McGill Statistics Seminar | Dehan Kong|	[Object Oriented Data Analysis with Application to Neuroimaging Studies]({{< relref "post/2018fall/2018-10-26.md">}}) | 15:30-16:30 | BURN 1104 |
 | Nov 2  | McGill Statistics Seminar | Andreas Kyprianou|	[Terrorists never congregate in even numbers (and other strange results in fragmentation-coalescence)]({{< relref "post/2018fall/2018-11-02.md">}}) | 15:30-16:30 | BURN 1104 |
 | Nov 9  | McGill Statistics Seminar | Abbas Mehrabian|	[Density estimation of mixtures of Gaussians and Ising models]({{< relref "post/2018fall/2018-11-09.md">}}) | 15:30-16:30 | BURN 1104 |
-| Nov 16  | McGill Statistics Seminar | Arian Maleki|	TBA | 15:30-16:30 | BURN 1104 |
-| Nov 23  | McGill Statistics Seminar | David Wolfson |	TBA | 15:30-16:30 | BURN 1104 |
+| Nov 16  | McGill Statistics Seminar | James McVittie|	[Estimation of the Median Residual Lifetime Function for Length-Biased Failure Time Data]({{< relref "post/2018fall/2018-11-16.md">}}) | 15:30-16:30 | BURN 1104 |
+| Nov 23  | McGill Statistics Seminar | David Wolfson |	[p-values vs Bayes factors: Is there a compromise?]({{< relref "post/2018fall/2018-11-23.md">}}) | 15:30-16:30 | BURN 1104 |
 | Dec 7  | McGill Statistics Seminar | Ji Zhu|	TBA | 15:30-16:30 | BURN 1104 |
