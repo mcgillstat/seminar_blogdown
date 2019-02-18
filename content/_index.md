@@ -14,7 +14,7 @@ menu: main
 | Feb 1 | McGill Statistics Seminar | Peter Orbanz |[Network models, sampling, and symmetry properties]({{< relref "post/2019winter/2019-02-01.md">}})	  | 15:30-16:30 | BURN 1205 |
 | Feb 8 | McGill Statistics Seminar | Alireza Heidari | [Patient-Specific Finite Element Analysis of Human Heart: Mathematical and Statistical Opportunities and Challenges]({{< relref "post/2019winter/2019-02-08.md">}})        | 15:30-16:30 | BURN 1104 |
 | Feb 15 | McGill Statistics Seminar | Linbo Wang | [Causal Inference with Unmeasured Confounding: an Instrumental Variable Approach]({{< relref "post/2019winter/2019-02-15.md">}})         | 15:30-16:30 | BURN 1205 |
-| Feb 22 | McGill Statistics Seminar | Aaditya Ramdas |         | 15:30-16:30 | BURN 1104 |
+| Feb 22 | McGill Statistics Seminar | Aaditya Ramdas |[Uniform, nonparametric, non-asymptotic confidence sequences]({{< relref "post/2019winter/2019-02-22.md">}})         | 15:30-16:30 | BURN 1205 |
 | Mar 1 | McGill Statistics Seminar | Jason Xu |         | 15:30-16:30 | BURN 1104 |
 | Mar 15  | McGill Statistics Seminar | Deniz Ustebay |         | 15:30-16:30 | BURN 1104 |
 | Mar 22  | McGill Statistics Seminar | Andrew Gelman  |         | 15:30-16:30 | BURN 1104 |
