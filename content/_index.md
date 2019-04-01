@@ -19,6 +19,6 @@ menu: main
 | Mar 15  | McGill Statistics Seminar | Deniz Ustebay |[Hierarchical Bayesian Modelling for Wireless Cellular Networks]({{< relref "post/2019winter/2019-03-15.md">}})          | 15:30-16:30 | BURN 1205 |
 | Mar 22  | McGill Statistics Seminar | Andrew Gelman  | [Challenges in Bayesian Computing]({{< relref "post/2019winter/2019-03-22.md">}})         | 15:30-16:30 | BURN 1104 |
 | Mar 29  | McGill Statistics Seminar | Nema Dean  |[Introduction to Statistical Network Analysis]({{< relref "post/2019winter/2019-03-29.md">}})         | 13:00-16:30 | McIntyre 521 |
-| Apr 5  | McGill Statistics Seminar | Yanxun Xu |         | 15:30-16:30 | BURN 1104 |
+| Apr 5  | McGill Statistics Seminar | Yanxun Xu | [Bayesian Estimation of Individualized Treatment-Response Curves in Populations with Heterogeneous Treatment Effects]({{< relref "post/2019winter/2019-04-05.md">}})        | 15:30-16:30 | BURN 1104 |
 | Apr 12  | McGill Statistics Seminar | Tianchen Qian |         | 15:30-16:30 | BURN 1104 |
 | Apr 19  | McGill Statistics Seminar | Jian Tang |         | 15:30-16:30 | BURN 1104 |
