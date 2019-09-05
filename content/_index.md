@@ -8,7 +8,7 @@ menu: main
 # Fall 2019 
 | Date   | Event                     | Speaker(s)         | Title                                                                                                                                              | Time        | Location                                       |
 |--------|---------------------------|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|-------------|------------------------------------------------|
-| Sep 6 | McGill Statistics Seminar  |  |  | 15:30-16:30 | BURN 1205 |
+| Sep 6 | McGill Statistics Seminar  | Omidali Jazi | [MAPLE; Semiparametric Estimation and Variable Selection for Length-biased Data with Heavy Censoring]({{< relref "post/2019winter/2019-09-06.md">}}) | 15:30-16:30 | BURN 1205 |
 | Sep 13 | McGill Statistics Seminar  | Yue Li |  | 15:30-16:30 | BURN 1205 |
 | Sep 20 | McGill Statistics Seminar  | Siamak Ravanbakhsh |  | 15:30-16:30 | BURN 1205 |
 | Sep 27 | McGill Statistics Seminar  | Murray Clayton |  | 15:30-16:30 | BURN 1205 |
