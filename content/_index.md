@@ -21,3 +21,4 @@ menu: main
 | Nov 15 | McGill Statistics Seminar  | Ting-Kam Leonard Wong |  | 15:30-16:30 | BURN 1205 |
 | Nov 22 | CRM Colloquium  | Don Estep |  | 15:30-16:30 | BURN 1205 |
 | Nov 29 | McGill Statistics Seminar  | Murat A. Erdogdu |  | 15:30-16:30 | BURN 1205 |
+| Dec 3 | McGill Statistics Seminar  |  |  | 15:30-16:30 | BURN 1205 |
