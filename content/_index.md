@@ -9,12 +9,12 @@ menu: main
 | Date   | Event                     | Speaker(s)         | Title                                                                                                                                              | Time        | Location                                       |
 |--------|---------------------------|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|-------------|------------------------------------------------|
 | Sep 6 | McGill Statistics Seminar  | Omidali Jazi | [MAPLE; Semiparametric Estimation and Variable Selection for Length-biased Data with Heavy Censoring]({{< relref "post/2019fall/2019-09-06.md">}}) | 15:30-16:30 | BURN 1205 |
-| Sep 13 | McGill Statistics Seminar  | Yue Li |  | 15:30-16:30 | BURN 1205 |
+| Sep 13 | McGill Statistics Seminar  | Yue Li | [Integrative Computational Approach in Genomics and Healthcare]({{< relref "post/2019fall/2019-09-13.md">}}) | 15:30-16:30 | BURN 1205 |
 | Sep 20 | McGill Statistics Seminar  | Siamak Ravanbakhsh |  | 15:30-16:30 | BURN 1205 |
 | Sep 27 | McGill Statistics Seminar  | Murray Clayton |  | 15:30-16:30 | BURN 1205 |
 | Oct 4 | CRM-SSC Prize Colloquium  | Johanna Neslehova |  | 15:30-16:30 | CRM, Universite de Montreal, Pavillon Andre-Aisenstadt, salle 6254 |
 | Oct 11 | McGill Statistics Seminar  | Jean-Francois Coeurjolly  |  | 15:30-16:30 | BURN 1205 |
-| Oct 18 | McGill Statistics Seminar  |  |  | 15:30-16:30 | BURN 1205 |
+| Oct 18 | McGill Statistics Seminar  | Klaus Herrmann |  | 15:30-16:30 | BURN 1205 |
 | Oct 25 | McGill Statistics Seminar  | Ali Shojaie |  | 15:30-16:30 | BURN 1205 |
 | Nov 1 | CRM Colloquium  | Stephen Walker |  | 15:30-16:30 | BURN 1104 |
 | Nov 8 | McGill Statistics Seminar  | Wen Zhou |  | 15:30-16:30 | BURN 1205 |
