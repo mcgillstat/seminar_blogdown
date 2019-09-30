@@ -12,7 +12,7 @@ menu: main
 | Sep 13 | McGill Statistics Seminar  | Yue Li | [Integrative Computational Approach in Genomics and Healthcare]({{< relref "post/2019fall/2019-09-13.md">}}) | 15:30-16:30 | BURN 1205 |
 | Sep 20 | McGill Statistics Seminar  | Siamak Ravanbakhsh | [Deep Representation Learning using Discrete Domain Symmetries]({{< relref "post/2019fall/2019-09-20.md">}}) | 15:30-16:30 | BURN 1205 |
 | Sep 27 | McGill Statistics Seminar  | Murray Clayton | [Regression Models for Spatial Images]({{< relref "post/2019fall/2019-09-27.md">}}) | 15:30–16:30 | McIntyre Medical Building, Room 521 |
-| Oct 4 | CRM-SSC Prize Colloquium  | Johanna Neslehova | [Tales of tails, tiles and ties in dependence modeling]({{< relref "post/2019fall/2019-10-04.md">}}) | 16:00-17:00 | CRM, UdeM, Pav. Andre-Aisenstadt, 2920, ch. de la Tour, salle 1355 |
+| Oct 4 | CRM-SSC Prize Colloquium  | Johanna Neslehova | [Tales of Tails, Tiles and Ties in Dependence Modeling]({{< relref "post/2019fall/2019-10-04.md">}}) | 16:00-17:00 | CRM, UdeM, Pav. Andre-Aisenstadt, 2920, ch. de la Tour, salle 1355 |
 | Oct 11 | McGill Statistics Seminar  | Jean-Francois Coeurjolly  |  | 15:30-16:30 | BURN 1205 |
 | Oct 18 | McGill Statistics Seminar  | Klaus Herrmann |  | 15:30-16:30 | BURN 1205 |
 | Oct 25 | McGill Statistics Seminar  | Ali Shojaie |  | 15:30-16:30 | BURN 1205 |
