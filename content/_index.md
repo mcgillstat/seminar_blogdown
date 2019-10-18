@@ -15,7 +15,7 @@ menu: main
 | Oct 4 | CRM-SSC Prize Colloquium  | Johanna Neslehova | [Tales of Tails, Tiles and Ties in Dependence Modeling]({{< relref "post/2019fall/2019-10-04.md">}}) | 16:00-17:00 | CRM, UdeM, Pav. Andre-Aisenstadt, 2920, ch. de la Tour, salle 1355 |
 | Oct 11 | McGill Statistics Seminar  | Jean-Francois Coeurjolly  | [Repulsiveness for integration (not my social program)]({{< relref "post/2019fall/2019-10-11.md">}}) | 15:30-16:30 | BURN 1205 |
 | Oct 18 | McGill Statistics Seminar  | Klaus Herrmann | [Univariate and multivariate extremes of extendible random vectors]({{< relref "post/2019fall/2019-10-18.md">}}) | 15:30-16:30 | BURN 1205 |
-| Oct 25 | McGill Statistics Seminar  | Ali Shojaie |  | 15:30-16:30 | BURN 1205 |
+| Oct 25 | McGill Statistics Seminar  | Ali Shojaie | [Learning Connectivity Networks from High-Dimensional Point Processes]({{< relref "post/2019fall/2019-10-25.md">}}) | 15:30-16:30 | BURN 1205 |
 | Nov 1 | CRM Colloquium  | Stephen Walker |  | 15:30-16:30 | BURN 1104 |
 | Nov 8 | McGill Statistics Seminar  | Wen Zhou |  | 15:30-16:30 | BURN 1205 |
 | Nov 15 | McGill Statistics Seminar  | Ting-Kam Leonard Wong | [Logarithmic divergence: from finance to optimal transport and information geometry]({{< relref "post/2019fall/2019-11-15.md">}}) | 15:30-16:30 | BURN 1205 |
