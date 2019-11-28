@@ -20,5 +20,5 @@ menu: main
 | Nov 8 | McGill Statistics Seminar  | Wen Zhou | [Joint Robust Multiple Inference on Large Scale Multivariate Regression]({{< relref "post/2019fall/2019-11-08.md">}}) | 15:30-16:30 | BURN 1205 |
 | Nov 15 | McGill Statistics Seminar  | Ting-Kam Leonard Wong | [Logarithmic divergence: from finance to optimal transport and information geometry]({{< relref "post/2019fall/2019-11-15.md">}}) | 15:30-16:30 | BURN 1205 |
 | Nov 22 | CRM Colloquium  | Don Estep | [Formulation and solution of stochastic inverse problems for science and engineering models]({{< relref "post/2019fall/2019-11-22.md">}}) | 16:00-17:00 | Pavillon Kennedy, PK-5115, UQAM |
-| Nov 29 | McGill Statistics Seminar  | Murat A. Erdogdu |  | 15:30-16:30 | BURN 1205 |
+| Nov 29 | McGill Statistics Seminar  | Murat A. Erdogdu | [Convergence rates for diffusions-based sampling and optimization methods]({{< relref "post/2019fall/2019-11-29.md">}}) | 15:30-16:30 | BURN 1205 |
 | Dec 3 | McGill Statistics Seminar  | Bouchra Nasri |  | 15:30-16:30 | BURN 1205 |
