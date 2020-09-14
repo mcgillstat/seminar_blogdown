@@ -8,8 +8,8 @@ menu: main
 # Fall 2020
 | Date   | Event                     | Speaker(s)         | Title                                                                                                                                              | Time        | Location                                       |
 |--------|---------------------------|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|-------------|------------------------------------------------|
-| Sep 11 | CRM Colloquium  | Stefan Wager | [Machine Learning for Causal Inference]({{< relref "post/2020fall/2020-09-11.md">}}) | 16:00-17:00 | Zoom |
-| Sep 18 | McGill Statistics Seminar  | Simon Mak | [BdryGP: a boundary-integrated Gaussian process model for computer code emulation]({{< relref "post/2020fall/2020-09-18.md">}})  | 15:30-16:30 | Zoom |
+| Sep 11 | CRM Colloquium  | Stefan Wager | [Machine Learning for Causal Inference]({{< relref "post/2020fall/2020-09-11.md">}}) | 16:00-17:00 | [Zoom Link](https://umontreal.zoom.us/j/96525367383?pwd=dzBURjBvc2FWTGpyRUh4aURBZ0RvQT09) |
+| Sep 18 | McGill Statistics Seminar  | Simon Mak | [BdryGP: a boundary-integrated Gaussian process model for computer code emulation]({{< relref "post/2020fall/2020-09-18.md">}})  | 15:30-16:30 | [Zoom Link](https://mcgill.zoom.us/j/92453904989?pwd=ZDR6RUMxTzNYK0ZiME9ObWtoMGJqdz09) |
 | Sep 25 | McGill Statistics Seminar  | Yingying Fan | TBA | 15:30-16:30 | Zoom |
 | Oct 2 | CRM Colloquium  | Paul McNicholas  | TBA | 15:30–16:30 | Zoom |
 | Oct 9 | McGill Statistics Seminar  | Masoud Asgharian | TBA | 15:30–16:30 | Zoom |
