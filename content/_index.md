@@ -5,18 +5,19 @@ date: 2012-09-28
 menu: main
 ---
 
-# Winter 2020
+# Fall 2020
 | Date   | Event                     | Speaker(s)         | Title                                                                                                                                              | Time        | Location                                       |
 |--------|---------------------------|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|-------------|------------------------------------------------|
-| Jan 10 | McGill Statistics Seminar  | Lan Luo | Renewable estimation and incremental inference in streaming data Analysis | 15:30-16:30 | BURN 1104 |
-| Jan 13 | McGill Statistics Seminar  | Sean Jewell | [Estimation and inference for changepoint models]({{< relref "post/2020winter/2020-01-13.md">}})  | 15:30-16:30 | BURN 1205 |
-| Jan 20 | McGill Statistics Seminar  | Keith Levin | Bootstrapping networks with latent geometric structure | 15:30-16:30 | BURN 1205 |
-| Jan 31 | McGill Statistics Seminar  | Victor Veitch | [Adapting black-box machine learning methods for causal inference]({{< relref "post/2020winter/2020-01-31.md">}}) | 15:30–16:30 | BURN 1104 |
-| Feb 7 | McGill Statistics Seminar  | Cancelled |  | 15:30–16:30 | BURN 1205 |
-| Feb 14 | McGill Statistics Seminar  | Wei Qi  | [Sharing Sustainable Mobility in Smart Cities]({{< relref "post/2020winter/2020-02-14.md">}}) | 15:30-16:30 | BURN 1205 |
-| Feb 21 | McGill Statistics Seminar  | Bouchra Nasri | [Non-central squared copulas: properties and applications]({{< relref "post/2020winter/2020-02-21.md">}}) | 15:30-16:30 | BURN 1205 |
-| Feb 28 | CRM Colloquium | Yang Feng | [Neyman-Pearson classification: parametrics and sample size requirement]({{< relref "post/2020winter/2020-02-28.md">}}) | 15:30-16:30 | BURN 1104 |
-| Mar 13 | McGill Statistics Seminar  | Guy Wolf | [Geometry-based Data Exploration]({{< relref "post/2020winter/2020-03-13.md">}}) | 15:30-16:30 | BURN 1205 |
-| Mar 20 | McGill Statistics Seminar  | Shirin Golchi | [Informative Prior Elicitation from Historical Individual Patient Data]({{< relref "post/2020winter/2020-03-20.md">}}) | 15:30-16:30 | BURN 1205 |
-| Mar 27 | McGill Statistics Seminar  | Heungsun Hwang | [A gentle introduction to generalized structured component analysis and its recent developments]({{< relref "post/2020winter/2020-03-27.md">}}) | 15:30-16:30 | BURN 1205 |
-| Apr 3 | CRM Colloquium  | TBD  |  | 16:00-17:00 | BURN 1205 |
+| Sep 11 | CRM Colloquium  | Stefan Wager | [Machine Learning for Causal Inference]({{< relref "post/2020fall/2020-09-11.md">}}) | 16:00-17:00 | Zoom |
+| Sep 18 | McGill Statistics Seminar  | Simon Mak | [BdryGP: a boundary-integrated Gaussian process model for computer code emulation]({{< relref "post/2020fall/2020-09-18.md">}})  | 15:30-16:30 | Zoom |
+| Sep 25 | McGill Statistics Seminar  | Yingying Fan | TBA | 15:30-16:30 | Zoom |
+| Oct 2 | CRM Colloquium  | Paul McNicholas  | TBA | 15:30–16:30 | Zoom |
+| Oct 9 | McGill Statistics Seminar  | Masoud Asgharian | TBA | 15:30–16:30 | Zoom |
+| Oct 16 | McGill Statistics Seminar  | Jeffrey Rosenthal  | TBA | 15:30-16:30 | Zoom |
+| Oct 23 | McGill Statistics Seminar  | Booked | TBA | 15:30-16:30 | Zoom |
+| Oct 30 | McGill Statistics Seminar | Shu Yang | TBA | 15:30-16:30 | Zoom |
+| Nov 6 | McGill Statistics Seminar  | Arthur Gretton | TBA | 15:30-16:30 | Zoom |
+| Nov 13 | CRM Colloquium  | Booked | TBA | 15:30-16:30 | Zoom |
+| Nov 20 | McGill Statistics Seminar  | Rui Wang | TBA | 15:30-16:30 | Zoom |
+| Nov 27 | McGill Statistics Seminar  | Qing Mai  | TBA | 16:00-17:00 | Zoom |
+| Dec 4 | McGill Statistics Seminar  | Marius Hofert | TBA | 15:30-16:30 | Zoom |
