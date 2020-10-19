@@ -14,7 +14,7 @@ menu: main
 | Oct 2 | CRM Colloquium  | Paul McNicholas  | [Data Science, Classification, Clustering and Three-Way Data]({{< relref "post/2020fall/2020-10-02.md">}}) | 15:30–16:30 | [Zoom Link](https://umontreal.zoom.us/j/93983313215?pwd=clB6cUNsSjAvRmFMME1PblhkTUtsQT09) |
 | Oct 9 | McGill Statistics Seminar  | Masoud Asgharian, Damoon Robatian and Zedian Xiao | [Machine Learning and Neural Networks:  Foundations and Some Fundamental Questions]({{< relref "post/2020fall/2020-10-09.md">}}) | 15:30–16:30 | [Zoom Link](https://mcgill.zoom.us/j/92453904989?pwd=ZDR6RUMxTzNYK0ZiME9ObWtoMGJqdz09) |
 | Oct 16 | McGill Statistics Seminar  | Jeffrey Rosenthal  | [Adaptive MCMC For Everyone]({{< relref "post/2020fall/2020-10-16.md">}}) | 15:30-16:30 | [Zoom Link](https://mcgill.zoom.us/j/92453904989?pwd=ZDR6RUMxTzNYK0ZiME9ObWtoMGJqdz09) |
-| Oct 23 | McGill Statistics Seminar  | Booked | TBA | 15:30-16:30 | Zoom |
+| Oct 23 | McGill Statistics Seminar  | Tianxi Li | [Linear Regression and its Inference on Noisy Network-linked Data]({{< relref "post/2020fall/2020-10-23.md">}}) | 15:30-16:30 | [Zoom Link](https://mcgill.zoom.us/j/92453904989?pwd=ZDR6RUMxTzNYK0ZiME9ObWtoMGJqdz09) |
 | Oct 30 | McGill Statistics Seminar | Shu Yang | TBA | 15:30-16:30 | Zoom |
 | Nov 6 | McGill Statistics Seminar  | Arthur Gretton | TBA | 15:30-16:30 | Zoom |
 | Nov 13 | CRM Colloquium  | Booked | TBA | 15:30-16:30 | Zoom |
