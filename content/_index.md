@@ -16,7 +16,7 @@ menu: main
 | Oct 16 | McGill Statistics Seminar  | Jeffrey Rosenthal  | [Adaptive MCMC For Everyone]({{< relref "post/2020fall/2020-10-16.md">}}) | 15:30-16:30 | [Zoom Link](https://mcgill.zoom.us/j/92453904989?pwd=ZDR6RUMxTzNYK0ZiME9ObWtoMGJqdz09) |
 | Oct 23 | McGill Statistics Seminar  | Tianxi Li | [Linear Regression and its Inference on Noisy Network-linked Data]({{< relref "post/2020fall/2020-10-23.md">}}) | 15:30-16:30 | [Zoom Link](https://mcgill.zoom.us/j/92453904989?pwd=ZDR6RUMxTzNYK0ZiME9ObWtoMGJqdz09) |
 | Oct 30 | McGill Statistics Seminar | Shu Yang | [Test-based integrative analysis of randomized trial and real-world data for treatment heterogeneity estimation]({{< relref "post/2020fall/2020-10-30.md">}}) | 15:30-16:30 | [Zoom Link](https://mcgill.zoom.us/j/92453904989?pwd=ZDR6RUMxTzNYK0ZiME9ObWtoMGJqdz09) |
-| Nov 6 | McGill Statistics Seminar  | Arthur Gretton | TBA | 15:30-16:30 | Zoom |
+| Nov 6 | McGill Statistics Seminar  | Arthur Gretton | [Generalized Energy-Based Models]({{< relref "post/2020fall/2020-11-06.md">}}) | 15:30-16:30 | [Zoom Link](https://mcgill.zoom.us/j/92453904989?pwd=ZDR6RUMxTzNYK0ZiME9ObWtoMGJqdz09) |
 | Nov 13 | CRM Colloquium  | Booked | TBA | 15:30-16:30 | Zoom |
 | Nov 20 | McGill Statistics Seminar  | Rui Wang | TBA | 15:30-16:30 | Zoom |
 | Nov 27 | McGill Statistics Seminar  | Qing Mai  | TBA | 16:00-17:00 | Zoom |
