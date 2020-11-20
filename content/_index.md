@@ -18,6 +18,6 @@ menu: main
 | Oct 30 | McGill Statistics Seminar | Shu Yang | [Test-based integrative analysis of randomized trial and real-world data for treatment heterogeneity estimation]({{< relref "post/2020fall/2020-10-30.md">}}) | 15:30-16:30 | [Zoom Link](https://mcgill.zoom.us/j/92453904989?pwd=ZDR6RUMxTzNYK0ZiME9ObWtoMGJqdz09) |
 | Nov 6 | McGill Statistics Seminar  | Arthur Gretton | [Generalized Energy-Based Models]({{< relref "post/2020fall/2020-11-06.md">}}) | 15:30-16:30 | [Zoom Link](https://mcgill.zoom.us/j/92453904989?pwd=ZDR6RUMxTzNYK0ZiME9ObWtoMGJqdz09) |
 | Nov 13 | CRM Colloquium  | Tamara Broderick | [Approximate Cross-Validation for Large Data and High Dimensions]({{< relref "post/2020fall/2020-11-13.md">}}) | 15:30-16:30 | [Zoom Link](http://crm.umontreal.ca/colloque-sciences-mathematiques-quebec/#csmq) |
-| Nov 20 | McGill Statistics Seminar  | Rui Wang | TBA | 15:30-16:30 | Zoom |
+| Nov 20 | McGill Statistics Seminar  | Rui Wang | [Modeling viral rebound trajectories after analytical antiretroviral treatment interruption]({{< relref "post/2020fall/2020-11-20.md">}}) | 15:30-16:30 | [Zoom Link](https://mcgill.zoom.us/j/92453904989?pwd=ZDR6RUMxTzNYK0ZiME9ObWtoMGJqdz09) |
 | Nov 27 | McGill Statistics Seminar  | Qing Mai  | TBA | 16:00-17:00 | Zoom |
 | Dec 4 | McGill Statistics Seminar  | Marius Hofert | TBA | 15:30-16:30 | Zoom |
