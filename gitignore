@@ -1,0 +1,15 @@
+# Session Data files
+.RData
+.Ruserdata
+
+# History files
+.Rhistory
+.Rapp.history
+
+# RStudio files
+.Rproj.user
+
+# folder
+public/*
+public/
+public
