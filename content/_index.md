@@ -9,7 +9,7 @@ menu: main
 | Date   | Event                     | Speaker(s)         | Title                                                                                                                                              | Time        | Location                                       |
 |--------|---------------------------|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|-------------|------------------------------------------------|
 | Jan 15 | McGill Statistics Seminar  | Wei Zhang | [Large-scale Machine Learning Algorithms for Biomedical Data Science]({{< relref "post/2021winter/2021-01-15.md">}}) | 15:30-16:30 | [Zoom Link](https://mcgill.zoom.us/j/84308655572?pwd=OUlCN2FUckFmeTRRSGNjMzVzUzkrZz09) |
-| Jan 22 | CRM Colloquium  | Robert Haslhofer |   | 15:30-16:30 |  |
+| Jan 22 |   | Cancelled |   |  |  |
 | Jan 29 | CRM Colloquium  | Jon Wakefield |  [Small Area Estimation in Low- and Middle-Income Countries]({{< relref "post/2021winter/2021-01-29.md">}}) | 15:30-16:30 | [Zoom Link](https://umontreal.zoom.us/j/93983313215?pwd=clB6cUNsSjAvRmFMME1PblhkTUtsQT09) |
 | Feb 5 | McGill Statistics Seminar  | Booked  |  | 15:30–16:30 | [Zoom Link](https://mcgill.zoom.us/j/84308655572?pwd=OUlCN2FUckFmeTRRSGNjMzVzUzkrZz09) |
 | Feb 12 | CRM Colloquium  | Mikael Kuusela |  | 15:30–16:30 |  |
