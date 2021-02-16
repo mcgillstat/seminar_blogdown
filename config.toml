@@ -7,3 +7,4 @@ title = "McGill Statistics Seminars"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 
+disableHugoGeneratorInject = true
