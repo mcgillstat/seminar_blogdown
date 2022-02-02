@@ -11,7 +11,7 @@ menu: main
 | Jan 14 | McGill Statistics Seminar  |  Cancelled |   | 15:30-16:30  | [Zoom Link](https://mcgill.zoom.us/j/83436686293?pwd=b0RmWmlXRXE3OWR6NlNIcWF5d0dJQT09) |
 | Jan 21 | McGill Statistics Seminar  | Shoja Chenouri | [Change-point analysis for complex data structures]({{< relref "post/2022winter/2022-01-21.md">}})  | 15:30-16:30  | [Zoom Link](https://mcgill.zoom.us/j/83436686293?pwd=b0RmWmlXRXE3OWR6NlNIcWF5d0dJQT09) |
 | Jan 28 | CRM Colloquium  | Gilles Stupfler (ENSAI)  | [Risk assessment, heavy tails, and asymmetric least squares techniques]({{< relref "post/2022winter/2022-01-28.md">}})  | 15:30-16:30 | [Zoom Link](https://umontreal.zoom.us/j/93983313215?pwd=clB6cUNsSjAvRmFMME1PblhkTUtsQT09)  |
-| Feb 4 | McGill Statistics Seminar  | Rui Song  |   | 15:30-16:30  | [Zoom Link](https://mcgill.zoom.us/j/83436686293?pwd=b0RmWmlXRXE3OWR6NlNIcWF5d0dJQT09) |
+| Feb 4 | McGill Statistics Seminar  | Rui Song  |  [Off-Policy Confidence Interval Estimation with Confounded Markov Decision Process]({{< relref "post/2022winter/2022-02-04.md">}}) | 15:30-16:30  | [Zoom Link](https://mcgill.zoom.us/j/83436686293?pwd=b0RmWmlXRXE3OWR6NlNIcWF5d0dJQT09) |
 | Feb 11 | McGill Statistics Seminar  |  Jun Ding |   | 15:30-16:30  | [Zoom Link](https://mcgill.zoom.us/j/83436686293?pwd=b0RmWmlXRXE3OWR6NlNIcWF5d0dJQT09) |
 | Feb 18 | McGill Statistics Seminar | Stanislav Volgushev  |   | 15:30-16:30  | [Zoom Link](https://mcgill.zoom.us/j/83436686293?pwd=b0RmWmlXRXE3OWR6NlNIcWF5d0dJQT09) |
 | Feb 25 | CRM Colloquium  |  Scheduled |   | 15:30-16:30 | [Zoom Link](https://umontreal.zoom.us/j/93983313215?pwd=clB6cUNsSjAvRmFMME1PblhkTUtsQT09)  |
