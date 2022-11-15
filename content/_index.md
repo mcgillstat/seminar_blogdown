@@ -14,8 +14,8 @@ menu: main
 | Oct 7 | McGill Statistics Seminar  |  Jason Hartford | [Some steps towards causal representation learning]({{< relref "post/2022fall/2022-10-07.md">}})   | 15:30-16:30  | [Zoom Link](https://mcgill.zoom.us/j/83436686293?pwd=b0RmWmlXRXE3OWR6NlNIcWF5d0dJQT09) |
 | Oct 21 | McGill Statistics Seminar  |  Jing Lei | [A Conformal-Based Two-Sample Conditional Distribution Test]({{< relref "post/2022fall/2022-10-21.md">}})   | 15:30-16:30  | [Zoom Link](https://mcgill.zoom.us/j/83436686293?pwd=b0RmWmlXRXE3OWR6NlNIcWF5d0dJQT09) |
 | Nov 4 | McGill Statistics Seminar  |  Claudia Kluppelberg | [Max-linear Graphical Models for Extreme Risk Modelling]({{< relref "post/2022fall/2022-11-04.md">}}) | 15:30-16:30  | [Zoom Link](https://mcgill.zoom.us/j/83436686293?pwd=b0RmWmlXRXE3OWR6NlNIcWF5d0dJQT09) |
-| Nov 11 | McGill Statistics Seminar  |  Vira Semenova | [TBA]   | 15:30-16:30  | [Zoom Link](https://mcgill.zoom.us/j/83436686293?pwd=b0RmWmlXRXE3OWR6NlNIcWF5d0dJQT09) |
-| Nov 18 | McGill Statistics Seminar  |  Zhenhua Lin | [TBA]   | 15:30-16:30  | [Zoom Link](https://mcgill.zoom.us/j/83436686293?pwd=b0RmWmlXRXE3OWR6NlNIcWF5d0dJQT09) |
+| Nov 11 | McGill Statistics Seminar  |  Vira Semenova | [Automated Inference on Sharp Bounds]({{< relref "post/2022fall/2022-11-11.md">}})   | 15:30-16:30  | [Zoom Link](https://mcgill.zoom.us/j/83436686293?pwd=b0RmWmlXRXE3OWR6NlNIcWF5d0dJQT09) |
+| Nov 18 | McGill Statistics Seminar  |  Zhenhua Lin | [Optimal One-pass Nonparametric Estimation Under Memory Constraint]({{< relref "post/2022fall/2022-11-18.md">}})   | 15:30-16:30  | [Zoom Link](https://mcgill.zoom.us/j/83436686293?pwd=b0RmWmlXRXE3OWR6NlNIcWF5d0dJQT09) |
     
     
 
