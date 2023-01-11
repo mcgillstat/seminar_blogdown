@@ -9,7 +9,7 @@ menu: main
 | Date   | Event                     | Speaker(s)         | Title                                                                                                                                              | Time        | Location                                       |
 |--------|---------------------------|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|-------------|------------------------------------------------|
 | Jan 13 | McGill Statistics Seminar  |  Morgane Austern | [To split or not to split that is the question: From cross validation to debiased machine learning]({{< relref "post/2023winter/2023-01-13.md">}}) | 15:30-16:30  | [Zoom Link](https://mcgill.zoom.us/j/83436686293?pwd=b0RmWmlXRXE3OWR6NlNIcWF5d0dJQT09) |
-| Jan 20 | McGill Statistics Seminar  |  Peijun Sang |     | 15:20-16:20  | [Zoom Link](https://mcgill.zoom.us/j/83436686293?pwd=b0RmWmlXRXE3OWR6NlNIcWF5d0dJQT09) |
+| Jan 20 | McGill Statistics Seminar  |    |     | 15:20-16:20  | [Zoom Link](https://mcgill.zoom.us/j/83436686293?pwd=b0RmWmlXRXE3OWR6NlNIcWF5d0dJQT09) |
 | Feb 3 | McGill Statistics Seminar  |  Lihua Lei |     | 15:30-16:30  | [Zoom Link](https://mcgill.zoom.us/j/83436686293?pwd=b0RmWmlXRXE3OWR6NlNIcWF5d0dJQT09) |
 | Feb 10 | McGill Statistics Seminar  |  Qinglong Tian |    | 15:30-16:30  | [Zoom Link](https://mcgill.zoom.us/j/83436686293?pwd=b0RmWmlXRXE3OWR6NlNIcWF5d0dJQT09) |
 | Feb 17 | McGill Statistics Seminar  |  Lam Ho |   | 15:30-16:30  | [Zoom Link](https://mcgill.zoom.us/j/83436686293?pwd=b0RmWmlXRXE3OWR6NlNIcWF5d0dJQT09) |
