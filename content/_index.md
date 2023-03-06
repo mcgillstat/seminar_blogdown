@@ -13,7 +13,7 @@ menu: main
 | Feb 3 | McGill Statistics Seminar  |  Lihua Lei |   [Learning from a Biased Sample]({{< relref "post/2023winter/2023-02-03.md">}})  | 15:30-16:30  | [Zoom Link](https://mcgill.zoom.us/j/83436686293?pwd=b0RmWmlXRXE3OWR6NlNIcWF5d0dJQT09) |
 | Feb 10 | McGill Statistics Seminar  |  Qinglong Tian |  [Efficient Label Shift Adaptation through the Lens of Semiparametric Models]({{< relref "post/2023winter/2023-02-10.md">}})  | 15:00-16:00  | In person: Burnside 1205 / [Zoom Link](https://mcgill.zoom.us/j/83436686293?pwd=b0RmWmlXRXE3OWR6NlNIcWF5d0dJQT09) |
 | Feb 17 | McGill Statistics Seminar  |  Lam Ho | [Epidemic Forecasting using Delayed Time Embedding]({{< relref "post/2023winter/2023-02-17.md">}})  | 15:30-16:30  | [Zoom Link](https://mcgill.zoom.us/j/83436686293?pwd=b0RmWmlXRXE3OWR6NlNIcWF5d0dJQT09) |
-| Mar 10 | McGill Statistics Seminar  |  Ren Zhao |    | 15:30-16:30  | [Zoom Link](https://mcgill.zoom.us/j/83436686293?pwd=b0RmWmlXRXE3OWR6NlNIcWF5d0dJQT09) |
+| Mar 10 | McGill Statistics Seminar  |  Ren Zhao |  [Heteroskedastic Sparse PCA in High Dimensions]({{< relref "post/2023winter/2023-03-10.md">}})  | 15:30-16:30  | In person: Burnside 1104 / [Zoom Link](https://mcgill.zoom.us/j/83436686293?pwd=b0RmWmlXRXE3OWR6NlNIcWF5d0dJQT09) |
 | Mar 17 | McGill Statistics Seminar  |  James Hanley |    | 15:30-16:30  | [Zoom Link](https://mcgill.zoom.us/j/83436686293?pwd=b0RmWmlXRXE3OWR6NlNIcWF5d0dJQT09) |
 | Mar 24 | McGill Statistics Seminar  |  Mladen Kolar |     | 15:30-16:30  | [Zoom Link](https://mcgill.zoom.us/j/83436686293?pwd=b0RmWmlXRXE3OWR6NlNIcWF5d0dJQT09) |
  
