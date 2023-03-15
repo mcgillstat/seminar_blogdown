@@ -18,8 +18,3 @@ menu: main
 | Mar 17 | McGill Statistics Seminar  |  James Hanley | [Excursions in Statistical History: Highlights]({{< relref "post/2023winter/2023-03-17.md">}})   | 15:30-16:30  | In person: Burnside 1104 / [Zoom Link](https://mcgill.zoom.us/j/83436686293?pwd=b0RmWmlXRXE3OWR6NlNIcWF5d0dJQT09) |
 | Mar 24 | McGill Statistics Seminar  |  Mladen Kolar |     | 15:30-16:30  | [Zoom Link](https://mcgill.zoom.us/j/83436686293?pwd=b0RmWmlXRXE3OWR6NlNIcWF5d0dJQT09) |
  
-
-
-Excursions in Statistical History: Highlights
-
-Over the last 20 years, the speaker has delved into  the origins of 'regression';  the development of the 't' and 'Poisson' distributions; forerunners of the 'hazard' function; and the statistical design and conduct of US Selective Service lotteries from 1917 onwards.  This talk will recount the stories, data and simulations behind some of these, and provide some modern-day re-enactments.
