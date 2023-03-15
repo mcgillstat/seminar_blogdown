@@ -15,9 +15,11 @@ menu: main
 | Feb 17 | McGill Statistics Seminar  |  Lam Ho | [Epidemic Forecasting using Delayed Time Embedding]({{< relref "post/2023winter/2023-02-17.md">}})  | 15:30-16:30  | [Zoom Link](https://mcgill.zoom.us/j/83436686293?pwd=b0RmWmlXRXE3OWR6NlNIcWF5d0dJQT09) |
 | Mar 10 | McGill Statistics Seminar  |  Speaker 1: Somabha Mukherjee |  [High Dimensional Logistic Regression Under Network Dependence]({{< relref "post/2023winter/2023-03-10-1.md">}})  | 14:15-15:15  | In person: Burnside 1104 / [Zoom Link](https://mcgill.zoom.us/j/83436686293?pwd=b0RmWmlXRXE3OWR6NlNIcWF5d0dJQT09) |
 | Mar 10 | McGill Statistics Seminar  |  Speaker 2: Ren Zhao |  [Heteroskedastic Sparse PCA in High Dimensions]({{< relref "post/2023winter/2023-03-10-2.md">}})  | 15:30-16:30  | In person: Burnside 1104 / [Zoom Link](https://mcgill.zoom.us/j/83436686293?pwd=b0RmWmlXRXE3OWR6NlNIcWF5d0dJQT09) |
-| Mar 17 | McGill Statistics Seminar  |  James Hanley |    | 15:30-16:30  | [Zoom Link](https://mcgill.zoom.us/j/83436686293?pwd=b0RmWmlXRXE3OWR6NlNIcWF5d0dJQT09) |
+| Mar 17 | McGill Statistics Seminar  |  James Hanley | [Excursions in Statistical History: Highlights]({{< relref "post/2023winter/2023-03-17.md">}})   | 15:30-16:30  | In person: Burnside 1104 / [Zoom Link](https://mcgill.zoom.us/j/83436686293?pwd=b0RmWmlXRXE3OWR6NlNIcWF5d0dJQT09) |
 | Mar 24 | McGill Statistics Seminar  |  Mladen Kolar |     | 15:30-16:30  | [Zoom Link](https://mcgill.zoom.us/j/83436686293?pwd=b0RmWmlXRXE3OWR6NlNIcWF5d0dJQT09) |
  
 
 
+Excursions in Statistical History: Highlights
 
+Over the last 20 years, the speaker has delved into  the origins of 'regression';  the development of the 't' and 'Poisson' distributions; forerunners of the 'hazard' function; and the statistical design and conduct of US Selective Service lotteries from 1917 onwards.  This talk will recount the stories, data and simulations behind some of these, and provide some modern-day re-enactments.
