@@ -16,5 +16,5 @@ menu: main
 | Mar 10 | McGill Statistics Seminar  |  Speaker 1: Somabha Mukherjee |  [High Dimensional Logistic Regression Under Network Dependence]({{< relref "post/2023winter/2023-03-10-1.md">}})  | 14:15-15:15  | In person: Burnside 1104 / [Zoom Link](https://mcgill.zoom.us/j/83436686293?pwd=b0RmWmlXRXE3OWR6NlNIcWF5d0dJQT09) |
 | Mar 10 | McGill Statistics Seminar  |  Speaker 2: Ren Zhao |  [Heteroskedastic Sparse PCA in High Dimensions]({{< relref "post/2023winter/2023-03-10-2.md">}})  | 15:30-16:30  | In person: Burnside 1104 / [Zoom Link](https://mcgill.zoom.us/j/83436686293?pwd=b0RmWmlXRXE3OWR6NlNIcWF5d0dJQT09) |
 | Mar 17 | McGill Statistics Seminar  |  James Hanley | [Excursions in Statistical History: Highlights]({{< relref "post/2023winter/2023-03-17.md">}})   | 15:30-16:30  | In person: Burnside 1104 / [Zoom Link](https://mcgill.zoom.us/j/83436686293?pwd=b0RmWmlXRXE3OWR6NlNIcWF5d0dJQT09) |
-| Mar 24 | McGill Statistics Seminar  |  Mladen Kolar |     | 15:30-16:30  | [Zoom Link](https://mcgill.zoom.us/j/83436686293?pwd=b0RmWmlXRXE3OWR6NlNIcWF5d0dJQT09) |
+| Mar 24 | McGill Statistics Seminar  |  Mladen Kolar | [Confidence sets for Causal Discovery]({{< relref "post/2023winter/2023-03-24.md">}})    | 15:30-16:30  | [Zoom Link](https://mcgill.zoom.us/j/83436686293?pwd=b0RmWmlXRXE3OWR6NlNIcWF5d0dJQT09) |
  
