@@ -5,16 +5,8 @@ date: 2012-09-28
 menu: main
 ---
 
-# Winter 2023
+# Summer 2023
 | Date   | Event                     | Speaker(s)         | Title                                                                                                                                              | Time        | Location                                       |
 |--------|---------------------------|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|-------------|------------------------------------------------|
-| Jan 13 | McGill Statistics Seminar  |  Morgane Austern | [To split or not to split that is the question: From cross validation to debiased machine learning]({{< relref "post/2023winter/2023-01-13.md">}}) | 15:30-16:30  | [Zoom Link](https://mcgill.zoom.us/j/83436686293?pwd=b0RmWmlXRXE3OWR6NlNIcWF5d0dJQT09) |
-| Jan 20 | McGill Statistics Seminar  |  Quan Long  |  [What is TWAS and how do we use it in integrating gene expression data]({{< relref "post/2023winter/2023-01-20.md">}})   | 15:20-16:20  | [Zoom Link](https://mcgill.zoom.us/j/83436686293?pwd=b0RmWmlXRXE3OWR6NlNIcWF5d0dJQT09) |
-| Feb 3 | McGill Statistics Seminar  |  Lihua Lei |   [Learning from a Biased Sample]({{< relref "post/2023winter/2023-02-03.md">}})  | 15:30-16:30  | [Zoom Link](https://mcgill.zoom.us/j/83436686293?pwd=b0RmWmlXRXE3OWR6NlNIcWF5d0dJQT09) |
-| Feb 10 | McGill Statistics Seminar  |  Qinglong Tian |  [Efficient Label Shift Adaptation through the Lens of Semiparametric Models]({{< relref "post/2023winter/2023-02-10.md">}})  | 15:00-16:00  | In person: Burnside 1205 / [Zoom Link](https://mcgill.zoom.us/j/83436686293?pwd=b0RmWmlXRXE3OWR6NlNIcWF5d0dJQT09) |
-| Feb 17 | McGill Statistics Seminar  |  Lam Ho | [Epidemic Forecasting using Delayed Time Embedding]({{< relref "post/2023winter/2023-02-17.md">}})  | 15:30-16:30  | [Zoom Link](https://mcgill.zoom.us/j/83436686293?pwd=b0RmWmlXRXE3OWR6NlNIcWF5d0dJQT09) |
-| Mar 10 | McGill Statistics Seminar  |  Speaker 1: Somabha Mukherjee |  [High Dimensional Logistic Regression Under Network Dependence]({{< relref "post/2023winter/2023-03-10-1.md">}})  | 14:15-15:15  | In person: Burnside 1104 / [Zoom Link](https://mcgill.zoom.us/j/83436686293?pwd=b0RmWmlXRXE3OWR6NlNIcWF5d0dJQT09) |
-| Mar 10 | McGill Statistics Seminar  |  Speaker 2: Ren Zhao |  [Heteroskedastic Sparse PCA in High Dimensions]({{< relref "post/2023winter/2023-03-10-2.md">}})  | 15:30-16:30  | In person: Burnside 1104 / [Zoom Link](https://mcgill.zoom.us/j/83436686293?pwd=b0RmWmlXRXE3OWR6NlNIcWF5d0dJQT09) |
-| Mar 17 | McGill Statistics Seminar  |  James Hanley | [Excursions in Statistical History: Highlights]({{< relref "post/2023winter/2023-03-17.md">}})   | 15:30-16:30  | In person: Burnside 1104 / [Zoom Link](https://mcgill.zoom.us/j/83436686293?pwd=b0RmWmlXRXE3OWR6NlNIcWF5d0dJQT09) |
-| Mar 24 | McGill Statistics Seminar  |  Mladen Kolar | [Confidence sets for Causal Discovery]({{< relref "post/2023winter/2023-03-24.md">}})    | 15:30-16:30  | [Zoom Link](https://mcgill.zoom.us/j/83436686293?pwd=b0RmWmlXRXE3OWR6NlNIcWF5d0dJQT09) |
- 
+| Aug 14 | McGill Statistics Seminar  |  Yue Zhao | [Residual-based estimation of parametric copulas under regression]({{< relref "post/2023winter/2023-08-14.md">}}) | 15:30-16:30  | [Zoom Link](https://mcgill.zoom.us/j/83436686293?pwd=b0RmWmlXRXE3OWR6NlNIcWF5d0dJQT09) |
+| Aug 17 | McGill Statistics Seminar  |  Pallavi Basu  |  [Empirical Bayes Control of the False Discovery Exceedance]({{< relref "post/2023winter/2023-08-17.md">}})   | 15:30-16:30  | [Zoom Link](https://mcgill.zoom.us/j/83436686293?pwd=b0RmWmlXRXE3OWR6NlNIcWF5d0dJQT09) |
