@@ -5,7 +5,8 @@ date: 2012-09-28
 menu: main
 ---
 
-# Fall 2023
+# Summer 2023
 | Date   | Event                     | Speaker(s)         | Title                                                                                                                                              | Time        | Location                                       |
 |--------|---------------------------|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|-------------|------------------------------------------------|
-| September 15th, 2023 | McGill Statistics Seminar  | Naftali Weinberger |  [Three Myths About Causal Mediation]({{< relref "post/2023fall/2023-09-15.md">}})  | 15:30-16:30  | In person: Burnside 1104 / [Zoom Link](https://mcgill.zoom.us/j/86404798712) |
+| Aug 14 | McGill Statistics Seminar  |  Yue Zhao | [Residual-based estimation of parametric copulas under regression]({{< relref "post/2023winter/2023-08-14.md">}}) | 15:30-16:30  | [Zoom Link](https://mcgill.zoom.us/j/83436686293?pwd=b0RmWmlXRXE3OWR6NlNIcWF5d0dJQT09) |
+| Aug 17 | McGill Statistics Seminar  |  Pallavi Basu  |  [Empirical Bayes Control of the False Discovery Exceedance]({{< relref "post/2023winter/2023-08-17.md">}})   | 15:30-16:30  | [Zoom Link](https://mcgill.zoom.us/j/89623344755?pwd=S1E0QWVjSm8wRHdIYU5IZzllSXNjUT09) |
