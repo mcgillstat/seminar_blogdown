@@ -16,4 +16,4 @@ menu: main
 | October 27th, 2023 | McGill Statistics Seminar  | Yuyao Wang | [Doubly Robust Estimation under Covariate-induced Dependent Left Truncation]({{< relref "post/2023fall/2023-10-27.md">}}) | 15:30-16:30  | Online: Retransmitted in Burnside 1104 / [Zoom Link](https://mcgill.zoom.us/j/84195498572) |
 | November 3rd, 2023 | McGill Statistics Seminar  | S. Yaser Samadi | [Reduced-Rank Envelope Vector Autoregressive Models]({{< relref "post/2023fall/2023-11-03.md">}}) | 15:30-16:30  | In person: Burnside 1104 / [Zoom Link](https://mcgill.zoom.us/j/2571023554) |
 | November 10th, 2023 | McGill Statistics Seminar  | Taoufik Bouezmarni | [Copula-based estimation of health inequality measures]({{< relref "post/2023fall/2023-11-10.md">}}) | 15:30-16:30  | In person: Burnside 1104 / [Zoom Link](https://mcgill.zoom.us/j/89337793218) |
-
+| November 17th, 2023 | McGill Statistics Seminar  | Mohamed Ndaoud | [Robust and Tuning-Free Sparse Linear Regression via Square-Root Slope]({{< relref "post/2023fall/2023-11-17.md">}}) | 15:30-16:30  | Online: Retransmitted in Burnside 1104  / [Zoom Link](https://mcgill.zoom.us/j/81865630475) |
