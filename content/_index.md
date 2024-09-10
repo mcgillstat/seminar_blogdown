@@ -5,16 +5,7 @@ date: 2012-09-28
 menu: main
 ---
 
-# Winter 2024
+# Fall 2024
 | Date   | Event                     | Speaker(s)         | Title                                                                                                                                              | Time        | Location                                       |
 |--------|---------------------------|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|-------------|------------------------------------------------|
-| January 12th, 2024 | McGill Statistics Seminar  |  Farhad Shokoohi | [New Advances in High-Dimensional DNA Methylation Analysis in Cancer Epigenetic Using Trans-dimensional Hidden Markov Models]({{< relref "post/2024winter/2024-01-12.md">}}) | 15:30-16:30  | In person: Burnside 1104 / [Zoom Link](https://mcgill.zoom.us/j/83008174313) |
-| January 19th, 2024 | McGill Statistics Seminar  | Ani Eloyan | [Imaging and Clinical Biomarker Estimation in Alzheimer’s Disease]({{< relref "post/2024winter/2024-01-19.md">}}) | 15:30-16:30  | Online: Retransmitted in Burnside 1104 / [Zoom Link](https://mcgill.zoom.us/j/85422946487) |
-| February 2nd, 2024 | McGill Statistics Seminar  | Youssef Esstafa | [Fast calibration of FARIMA models with dependent errors]({{< relref "post/2024winter/2024-02-02.md">}}) | 15:30-16:30  | Online: Retransmitted in Burnside 1104 / [Zoom Link](https://mcgill.zoom.us/j/89669635642) |
-| February 9th, 2024 | McGill Statistics Seminar  | Peter William MacDonald | [Mesoscale two-sample testing for networks]({{< relref "post/2024winter/2024-02-09.md">}}) | 15:30-16:30  | In person: Burnside 1104 / [Zoom Link](https://mcgill.zoom.us/j/87465663442) |
-| February 16th, 2024 | McGill Statistics Seminar  | Karim Oualkacha | [Matrix completion in genetic methylation studies: LMCC, a Linear Model of Coregionalization with informative Covariates]({{< relref "post/2024winter/2024-02-16.md">}}) | 15:30-16:30  | In person: Burnside 1104 / [Zoom Link](https://mcgill.zoom.us/j/82678428848) |
-| March 1st, 2024 | McGill Statistics Seminar  | Janie Coulombe | [Recent advances in causal inference under irregular and informative observation times for the outcome]({{< relref "post/2024winter/2024-03-01.md">}}) | 15:30-16:30  | In person: Burnside 1104 / [Zoom Link](https://mcgill.zoom.us/j/89811237909) |
-| March 22nd, 2024 | McGill Statistics Seminar  | Qiang Heng | [Minimum Covariance Determinant: Spectral Embedding and Subset Size Determination]({{< relref "post/2024winter/2024-03-22.md">}}) | 15:30-16:30  | Online: Retransmitted in Burnside 1104 / [Zoom Link](https://mcgill.zoom.us/j/81895414756) |
-| April 12th, 2024 | McGill Statistics Seminar  | Elizabeth Collins-Woodfin | [Free energy fluctuations of spherical spin glasses near the critical temperature threshold]({{< relref "post/2024winter/2024-04-12.md">}}) | 15:30-16:30  |  In person: Burnside 1104 / [Zoom Link](https://mcgill.zoom.us/j/86957985232) |
-
-
+| September 9th, 2024 | McGill Statistics Seminar  | Florian Maire | [Variance reduction by occluding a Markov chain]({{< relref "post/2024fall/2024-09-20.md">}}) | 15:30-16:30  | In person: Burnside 1104 / [Zoom Link](https://mcgill.zoom.us/j/88265323185) |
